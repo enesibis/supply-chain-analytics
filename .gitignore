@@ -1,0 +1,43 @@
+# SSMS temp query files
+/SQLQuery*.sql
+
+# Internal notes
+/CLAUDE.md
+
+# Root-level raw scripts (organized copies are in database/)
+/coutryInsert.sql
+/cityInsert.sql
+/disrictInsert.sql
+/townInsert.sql
+/addressInsert.sql
+/unitInsert.sql
+/productCategoryInsert.sql
+/productInsert.sql
+/bomInsert.sql
+/bomItemInsert.sql
+/warehouseInsert.sql
+/businesspartnerInsert.sql
+/businesspartnerRoleInsert.sql
+/businesspartnerAddressInsert.sql
+/sampleDataInsert.sql
+/masterDataExpand.sql
+/bulkDataInsert.sql
+/createViews.sql
+
+# SSMS default folders
+/Code Snippets/
+/Templates/
+
+# Old fixes/tests dirs (organized copies are in database/)
+/fixes/
+/tests/
+
+# Power BI cache
+*.pbix.lock
+*.DataMashup
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/

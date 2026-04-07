@@ -1,817 +1,817 @@
-﻿yil,ay,subeKodu,productID,productName,categoryName,tahmin_miktar
-2025,1,ANK-001,4,Celik Levha 2mm,Hammadde,58.4
-2025,1,BRS-001,4,Celik Levha 2mm,Hammadde,12.6
-2025,1,IST-001,4,Celik Levha 2mm,Hammadde,58.0
-2025,1,IZM-001,4,Celik Levha 2mm,Hammadde,26.8
-2025,1,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,59.8
-2025,1,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.2
-2025,1,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,63.6
-2025,1,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,29.9
-2025,1,ANK-001,6,Metal Masa,Mamul,28.6
-2025,1,BRS-001,6,Metal Masa,Mamul,15.8
-2025,1,IST-001,6,Metal Masa,Mamul,46.7
-2025,1,IZM-001,6,Metal Masa,Mamul,19.0
-2025,1,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,63.0
-2025,1,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.0
-2025,1,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,66.2
-2025,1,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,31.5
-2025,1,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,47.6
-2025,1,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,12.9
-2025,1,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,43.5
-2025,1,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,25.7
-2025,1,ANK-001,9,Koli 60x40x40,Koli,49.6
-2025,1,BRS-001,9,Koli 60x40x40,Koli,20.5
-2025,1,IST-001,9,Koli 60x40x40,Koli,48.5
-2025,1,IZM-001,9,Koli 60x40x40,Koli,32.3
-2025,1,ANK-001,10,Streç Film 50cm,Streç Film,50.7
-2025,1,BRS-001,10,Streç Film 50cm,Streç Film,18.4
-2025,1,IST-001,10,Streç Film 50cm,Streç Film,42.4
-2025,1,IZM-001,10,Streç Film 50cm,Streç Film,32.4
-2025,1,ANK-001,11,Alüminyum Profil 40x40,Metal,65.7
-2025,1,BRS-001,11,Alüminyum Profil 40x40,Metal,28.8
-2025,1,IST-001,11,Alüminyum Profil 40x40,Metal,66.1
-2025,1,IZM-001,11,Alüminyum Profil 40x40,Metal,40.5
-2025,1,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,50.6
-2025,1,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,22.0
-2025,1,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,48.7
-2025,1,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,30.1
-2025,1,ANK-001,13,Epoksi Boya Gri 7035,Boya,58.4
-2025,1,BRS-001,13,Epoksi Boya Gri 7035,Boya,15.0
-2025,1,IST-001,13,Epoksi Boya Gri 7035,Boya,62.0
-2025,1,IZM-001,13,Epoksi Boya Gri 7035,Boya,28.6
-2025,1,ANK-001,14,PP Granül Doğal,Plastik,54.9
-2025,1,BRS-001,14,PP Granül Doğal,Plastik,24.8
-2025,1,IST-001,14,PP Granül Doğal,Plastik,50.0
-2025,1,IZM-001,14,PP Granül Doğal,Plastik,35.3
-2025,1,ANK-001,15,Paslanmaz Boru Ø25,Metal,50.8
-2025,1,BRS-001,15,Paslanmaz Boru Ø25,Metal,23.3
-2025,1,IST-001,15,Paslanmaz Boru Ø25,Metal,43.9
-2025,1,IZM-001,15,Paslanmaz Boru Ø25,Metal,30.6
-2025,1,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,79.9
-2025,1,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,33.9
-2025,1,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,79.5
-2025,1,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,49.2
-2025,1,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,43.3
-2025,1,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,1.5
-2025,1,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,36.4
-2025,1,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,13.9
-2025,1,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,51.9
-2025,1,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,19.7
-2025,1,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,40.4
-2025,1,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,33.3
-2025,1,ANK-001,19,Metal Kapak Seti 2li,Kapak,47.5
-2025,1,BRS-001,19,Metal Kapak Seti 2li,Kapak,15.4
-2025,1,IST-001,19,Metal Kapak Seti 2li,Kapak,45.9
-2025,1,IZM-001,19,Metal Kapak Seti 2li,Kapak,26.2
-2025,1,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,41.4
-2025,1,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.6
-2025,1,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,40.9
-2025,1,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,25.7
-2025,2,ANK-001,4,Celik Levha 2mm,Hammadde,55.7
-2025,2,BRS-001,4,Celik Levha 2mm,Hammadde,11.9
-2025,2,IST-001,4,Celik Levha 2mm,Hammadde,55.7
-2025,2,IZM-001,4,Celik Levha 2mm,Hammadde,24.1
-2025,2,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,57.9
-2025,2,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.6
-2025,2,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,62.2
-2025,2,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,28.1
-2025,2,ANK-001,6,Metal Masa,Mamul,30.6
-2025,2,BRS-001,6,Metal Masa,Mamul,16.6
-2025,2,IST-001,6,Metal Masa,Mamul,40.2
-2025,2,IZM-001,6,Metal Masa,Mamul,18.2
-2025,2,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,59.6
-2025,2,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.1
-2025,2,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,63.3
-2025,2,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,28.5
-2025,2,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,46.3
-2025,2,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.2
-2025,2,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,43.6
-2025,2,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,23.9
-2025,2,ANK-001,9,Koli 60x40x40,Koli,49.1
-2025,2,BRS-001,9,Koli 60x40x40,Koli,19.4
-2025,2,IST-001,9,Koli 60x40x40,Koli,48.6
-2025,2,IZM-001,9,Koli 60x40x40,Koli,31.2
-2025,2,ANK-001,10,Streç Film 50cm,Streç Film,51.1
-2025,2,BRS-001,10,Streç Film 50cm,Streç Film,18.2
-2025,2,IST-001,10,Streç Film 50cm,Streç Film,42.7
-2025,2,IZM-001,10,Streç Film 50cm,Streç Film,31.7
-2025,2,ANK-001,11,Alüminyum Profil 40x40,Metal,62.4
-2025,2,BRS-001,11,Alüminyum Profil 40x40,Metal,27.0
-2025,2,IST-001,11,Alüminyum Profil 40x40,Metal,63.3
-2025,2,IZM-001,11,Alüminyum Profil 40x40,Metal,36.7
-2025,2,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,50.8
-2025,2,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,21.5
-2025,2,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,48.8
-2025,2,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,29.2
-2025,2,ANK-001,13,Epoksi Boya Gri 7035,Boya,58.2
-2025,2,BRS-001,13,Epoksi Boya Gri 7035,Boya,14.4
-2025,2,IST-001,13,Epoksi Boya Gri 7035,Boya,62.2
-2025,2,IZM-001,13,Epoksi Boya Gri 7035,Boya,28.0
-2025,2,ANK-001,14,PP Granül Doğal,Plastik,56.6
-2025,2,BRS-001,14,PP Granül Doğal,Plastik,25.3
-2025,2,IST-001,14,PP Granül Doğal,Plastik,51.5
-2025,2,IZM-001,14,PP Granül Doğal,Plastik,35.7
-2025,2,ANK-001,15,Paslanmaz Boru Ø25,Metal,52.6
-2025,2,BRS-001,15,Paslanmaz Boru Ø25,Metal,22.8
-2025,2,IST-001,15,Paslanmaz Boru Ø25,Metal,44.5
-2025,2,IZM-001,15,Paslanmaz Boru Ø25,Metal,30.0
-2025,2,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,76.8
-2025,2,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,32.2
-2025,2,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,76.7
-2025,2,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,45.5
-2025,2,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,39.6
-2025,2,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,1.0
-2025,2,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,38.6
-2025,2,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,11.7
-2025,2,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,54.4
-2025,2,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,17.3
-2025,2,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,46.5
-2025,2,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,33.3
-2025,2,ANK-001,19,Metal Kapak Seti 2li,Kapak,47.7
-2025,2,BRS-001,19,Metal Kapak Seti 2li,Kapak,15.0
-2025,2,IST-001,19,Metal Kapak Seti 2li,Kapak,46.0
-2025,2,IZM-001,19,Metal Kapak Seti 2li,Kapak,25.4
-2025,2,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,41.6
-2025,2,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.0
-2025,2,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,40.8
-2025,2,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,24.8
-2025,3,ANK-001,4,Celik Levha 2mm,Hammadde,63.5
-2025,3,BRS-001,4,Celik Levha 2mm,Hammadde,13.8
-2025,3,IST-001,4,Celik Levha 2mm,Hammadde,56.6
-2025,3,IZM-001,4,Celik Levha 2mm,Hammadde,26.0
-2025,3,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,66.3
-2025,3,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,19.4
-2025,3,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,63.4
-2025,3,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,30.0
-2025,3,ANK-001,6,Metal Masa,Mamul,35.2
-2025,3,BRS-001,6,Metal Masa,Mamul,16.0
-2025,3,IST-001,6,Metal Masa,Mamul,50.7
-2025,3,IZM-001,6,Metal Masa,Mamul,23.9
-2025,3,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,66.9
-2025,3,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.9
-2025,3,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,64.1
-2025,3,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,30.3
-2025,3,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,55.5
-2025,3,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.2
-2025,3,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,45.3
-2025,3,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,26.3
-2025,3,ANK-001,9,Koli 60x40x40,Koli,57.7
-2025,3,BRS-001,9,Koli 60x40x40,Koli,20.7
-2025,3,IST-001,9,Koli 60x40x40,Koli,49.7
-2025,3,IZM-001,9,Koli 60x40x40,Koli,33.0
-2025,3,ANK-001,10,Streç Film 50cm,Streç Film,59.4
-2025,3,BRS-001,10,Streç Film 50cm,Streç Film,18.5
-2025,3,IST-001,10,Streç Film 50cm,Streç Film,41.7
-2025,3,IZM-001,10,Streç Film 50cm,Streç Film,32.1
-2025,3,ANK-001,11,Alüminyum Profil 40x40,Metal,69.9
-2025,3,BRS-001,11,Alüminyum Profil 40x40,Metal,28.2
-2025,3,IST-001,11,Alüminyum Profil 40x40,Metal,63.3
-2025,3,IZM-001,11,Alüminyum Profil 40x40,Metal,38.4
-2025,3,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,62.6
-2025,3,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,25.6
-2025,3,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,52.4
-2025,3,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,33.7
-2025,3,ANK-001,13,Epoksi Boya Gri 7035,Boya,66.7
-2025,3,BRS-001,13,Epoksi Boya Gri 7035,Boya,16.4
-2025,3,IST-001,13,Epoksi Boya Gri 7035,Boya,63.7
-2025,3,IZM-001,13,Epoksi Boya Gri 7035,Boya,30.1
-2025,3,ANK-001,14,PP Granül Doğal,Plastik,66.1
-2025,3,BRS-001,14,PP Granül Doğal,Plastik,26.5
-2025,3,IST-001,14,PP Granül Doğal,Plastik,52.1
-2025,3,IZM-001,14,PP Granül Doğal,Plastik,37.6
-2025,3,ANK-001,15,Paslanmaz Boru Ø25,Metal,65.4
-2025,3,BRS-001,15,Paslanmaz Boru Ø25,Metal,26.9
-2025,3,IST-001,15,Paslanmaz Boru Ø25,Metal,48.0
-2025,3,IZM-001,15,Paslanmaz Boru Ø25,Metal,34.8
-2025,3,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,83.7
-2025,3,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,33.3
-2025,3,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,76.2
-2025,3,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,46.8
-2025,3,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,46.9
-2025,3,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,3.5
-2025,3,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,37.6
-2025,3,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,15.0
-2025,3,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,61.6
-2025,3,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,18.7
-2025,3,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,43.7
-2025,3,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,33.2
-2025,3,ANK-001,19,Metal Kapak Seti 2li,Kapak,58.2
-2025,3,BRS-001,19,Metal Kapak Seti 2li,Kapak,17.7
-2025,3,IST-001,19,Metal Kapak Seti 2li,Kapak,48.3
-2025,3,IZM-001,19,Metal Kapak Seti 2li,Kapak,28.5
-2025,3,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,49.7
-2025,3,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.7
-2025,3,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,41.3
-2025,3,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,26.0
-2025,4,ANK-001,4,Celik Levha 2mm,Hammadde,53.2
-2025,4,BRS-001,4,Celik Levha 2mm,Hammadde,11.9
-2025,4,IST-001,4,Celik Levha 2mm,Hammadde,54.0
-2025,4,IZM-001,4,Celik Levha 2mm,Hammadde,24.3
-2025,4,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,55.9
-2025,4,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.8
-2025,4,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,60.9
-2025,4,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,28.7
-2025,4,ANK-001,6,Metal Masa,Mamul,39.1
-2025,4,BRS-001,6,Metal Masa,Mamul,25.4
-2025,4,IST-001,6,Metal Masa,Mamul,42.7
-2025,4,IZM-001,6,Metal Masa,Mamul,15.9
-2025,4,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,57.8
-2025,4,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.6
-2025,4,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,62.4
-2025,4,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,29.3
-2025,4,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,42.8
-2025,4,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.0
-2025,4,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,41.0
-2025,4,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,22.7
-2025,4,ANK-001,9,Koli 60x40x40,Koli,46.6
-2025,4,BRS-001,9,Koli 60x40x40,Koli,20.2
-2025,4,IST-001,9,Koli 60x40x40,Koli,46.6
-2025,4,IZM-001,9,Koli 60x40x40,Koli,31.1
-2025,4,ANK-001,10,Streç Film 50cm,Streç Film,49.7
-2025,4,BRS-001,10,Streç Film 50cm,Streç Film,19.0
-2025,4,IST-001,10,Streç Film 50cm,Streç Film,39.5
-2025,4,IZM-001,10,Streç Film 50cm,Streç Film,31.8
-2025,4,ANK-001,11,Alüminyum Profil 40x40,Metal,60.0
-2025,4,BRS-001,11,Alüminyum Profil 40x40,Metal,26.6
-2025,4,IST-001,11,Alüminyum Profil 40x40,Metal,61.1
-2025,4,IZM-001,11,Alüminyum Profil 40x40,Metal,36.6
-2025,4,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,50.2
-2025,4,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,23.7
-2025,4,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,47.2
-2025,4,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,30.9
-2025,4,ANK-001,13,Epoksi Boya Gri 7035,Boya,56.0
-2025,4,BRS-001,13,Epoksi Boya Gri 7035,Boya,14.8
-2025,4,IST-001,13,Epoksi Boya Gri 7035,Boya,60.9
-2025,4,IZM-001,13,Epoksi Boya Gri 7035,Boya,28.5
-2025,4,ANK-001,14,PP Granül Doğal,Plastik,55.3
-2025,4,BRS-001,14,PP Granül Doğal,Plastik,26.2
-2025,4,IST-001,14,PP Granül Doğal,Plastik,48.7
-2025,4,IZM-001,14,PP Granül Doğal,Plastik,36.2
-2025,4,ANK-001,15,Paslanmaz Boru Ø25,Metal,51.6
-2025,4,BRS-001,15,Paslanmaz Boru Ø25,Metal,24.2
-2025,4,IST-001,15,Paslanmaz Boru Ø25,Metal,41.6
-2025,4,IZM-001,15,Paslanmaz Boru Ø25,Metal,30.5
-2025,4,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,75.1
-2025,4,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,32.2
-2025,4,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,75.2
-2025,4,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,46.3
-2025,4,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,35.7
-2025,4,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,3.7
-2025,4,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,33.4
-2025,4,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,11.4
-2025,4,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,48.4
-2025,4,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,18.0
-2025,4,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,39.7
-2025,4,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,33.3
-2025,4,ANK-001,19,Metal Kapak Seti 2li,Kapak,46.6
-2025,4,BRS-001,19,Metal Kapak Seti 2li,Kapak,17.2
-2025,4,IST-001,19,Metal Kapak Seti 2li,Kapak,44.2
-2025,4,IZM-001,19,Metal Kapak Seti 2li,Kapak,26.5
-2025,4,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,38.8
-2025,4,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.6
-2025,4,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,38.6
-2025,4,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,24.3
-2025,5,ANK-001,4,Celik Levha 2mm,Hammadde,59.5
-2025,5,BRS-001,4,Celik Levha 2mm,Hammadde,10.7
-2025,5,IST-001,4,Celik Levha 2mm,Hammadde,55.2
-2025,5,IZM-001,4,Celik Levha 2mm,Hammadde,31.7
-2025,5,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,65.0
-2025,5,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,16.4
-2025,5,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,65.6
-2025,5,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,37.4
-2025,5,ANK-001,6,Metal Masa,Mamul,50.7
-2025,5,BRS-001,6,Metal Masa,Mamul,19.4
-2025,5,IST-001,6,Metal Masa,Mamul,56.1
-2025,5,IZM-001,6,Metal Masa,Mamul,30.7
-2025,5,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,69.3
-2025,5,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,19.9
-2025,5,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,69.0
-2025,5,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,39.0
-2025,5,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,45.0
-2025,5,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,10.0
-2025,5,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,40.7
-2025,5,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,28.4
-2025,5,ANK-001,9,Koli 60x40x40,Koli,49.3
-2025,5,BRS-001,9,Koli 60x40x40,Koli,20.7
-2025,5,IST-001,9,Koli 60x40x40,Koli,49.5
-2025,5,IZM-001,9,Koli 60x40x40,Koli,37.8
-2025,5,ANK-001,10,Streç Film 50cm,Streç Film,49.2
-2025,5,BRS-001,10,Streç Film 50cm,Streç Film,21.4
-2025,5,IST-001,10,Streç Film 50cm,Streç Film,41.5
-2025,5,IZM-001,10,Streç Film 50cm,Streç Film,36.8
-2025,5,ANK-001,11,Alüminyum Profil 40x40,Metal,78.2
-2025,5,BRS-001,11,Alüminyum Profil 40x40,Metal,32.2
-2025,5,IST-001,11,Alüminyum Profil 40x40,Metal,76.5
-2025,5,IZM-001,11,Alüminyum Profil 40x40,Metal,52.7
-2025,5,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,60.2
-2025,5,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,25.1
-2025,5,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,54.1
-2025,5,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,44.8
-2025,5,ANK-001,13,Epoksi Boya Gri 7035,Boya,63.4
-2025,5,BRS-001,13,Epoksi Boya Gri 7035,Boya,14.3
-2025,5,IST-001,13,Epoksi Boya Gri 7035,Boya,62.1
-2025,5,IZM-001,13,Epoksi Boya Gri 7035,Boya,37.1
-2025,5,ANK-001,14,PP Granül Doğal,Plastik,55.8
-2025,5,BRS-001,14,PP Granül Doğal,Plastik,26.3
-2025,5,IST-001,14,PP Granül Doğal,Plastik,50.6
-2025,5,IZM-001,14,PP Granül Doğal,Plastik,40.8
-2025,5,ANK-001,15,Paslanmaz Boru Ø25,Metal,66.1
-2025,5,BRS-001,15,Paslanmaz Boru Ø25,Metal,30.6
-2025,5,IST-001,15,Paslanmaz Boru Ø25,Metal,55.6
-2025,5,IZM-001,15,Paslanmaz Boru Ø25,Metal,49.3
-2025,5,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,76.1
-2025,5,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,29.4
-2025,5,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,75.8
-2025,5,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,49.6
-2025,5,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,34.2
-2025,5,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,1.2
-2025,5,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,34.9
-2025,5,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,19.2
-2025,5,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,50.3
-2025,5,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,18.5
-2025,5,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,36.6
-2025,5,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,37.2
-2025,5,ANK-001,19,Metal Kapak Seti 2li,Kapak,49.5
-2025,5,BRS-001,19,Metal Kapak Seti 2li,Kapak,17.6
-2025,5,IST-001,19,Metal Kapak Seti 2li,Kapak,47.4
-2025,5,IZM-001,19,Metal Kapak Seti 2li,Kapak,36.3
-2025,5,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,41.3
-2025,5,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,18.0
-2025,5,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,41.5
-2025,5,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,31.5
-2025,6,ANK-001,4,Celik Levha 2mm,Hammadde,66.6
-2025,6,BRS-001,4,Celik Levha 2mm,Hammadde,13.4
-2025,6,IST-001,4,Celik Levha 2mm,Hammadde,58.7
-2025,6,IZM-001,4,Celik Levha 2mm,Hammadde,37.4
-2025,6,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,72.8
-2025,6,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.7
-2025,6,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,71.2
-2025,6,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,44.0
-2025,6,ANK-001,6,Metal Masa,Mamul,39.2
-2025,6,BRS-001,6,Metal Masa,Mamul,24.5
-2025,6,IST-001,6,Metal Masa,Mamul,53.7
-2025,6,IZM-001,6,Metal Masa,Mamul,34.8
-2025,6,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,75.9
-2025,6,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.6
-2025,6,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,73.1
-2025,6,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,44.5
-2025,6,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,51.8
-2025,6,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.5
-2025,6,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,45.0
-2025,6,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,35.2
-2025,6,ANK-001,9,Koli 60x40x40,Koli,56.4
-2025,6,BRS-001,9,Koli 60x40x40,Koli,24.4
-2025,6,IST-001,9,Koli 60x40x40,Koli,54.7
-2025,6,IZM-001,9,Koli 60x40x40,Koli,44.7
-2025,6,ANK-001,10,Streç Film 50cm,Streç Film,54.2
-2025,6,BRS-001,10,Streç Film 50cm,Streç Film,25.6
-2025,6,IST-001,10,Streç Film 50cm,Streç Film,40.9
-2025,6,IZM-001,10,Streç Film 50cm,Streç Film,41.0
-2025,6,ANK-001,11,Alüminyum Profil 40x40,Metal,82.2
-2025,6,BRS-001,11,Alüminyum Profil 40x40,Metal,35.1
-2025,6,IST-001,11,Alüminyum Profil 40x40,Metal,79.5
-2025,6,IZM-001,11,Alüminyum Profil 40x40,Metal,58.2
-2025,6,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,66.3
-2025,6,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,28.7
-2025,6,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,56.6
-2025,6,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,51.6
-2025,6,ANK-001,13,Epoksi Boya Gri 7035,Boya,71.2
-2025,6,BRS-001,13,Epoksi Boya Gri 7035,Boya,16.9
-2025,6,IST-001,13,Epoksi Boya Gri 7035,Boya,67.8
-2025,6,IZM-001,13,Epoksi Boya Gri 7035,Boya,43.8
-2025,6,ANK-001,14,PP Granül Doğal,Plastik,61.7
-2025,6,BRS-001,14,PP Granül Doğal,Plastik,31.4
-2025,6,IST-001,14,PP Granül Doğal,Plastik,51.3
-2025,6,IZM-001,14,PP Granül Doğal,Plastik,46.0
-2025,6,ANK-001,15,Paslanmaz Boru Ø25,Metal,68.4
-2025,6,BRS-001,15,Paslanmaz Boru Ø25,Metal,34.8
-2025,6,IST-001,15,Paslanmaz Boru Ø25,Metal,55.8
-2025,6,IZM-001,15,Paslanmaz Boru Ø25,Metal,54.8
-2025,6,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,81.2
-2025,6,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,32.3
-2025,6,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,78.5
-2025,6,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,54.0
-2025,6,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,43.6
-2025,6,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,5.7
-2025,6,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,40.5
-2025,6,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,22.9
-2025,6,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,55.6
-2025,6,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,23.8
-2025,6,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,41.4
-2025,6,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,43.5
-2025,6,ANK-001,19,Metal Kapak Seti 2li,Kapak,55.5
-2025,6,BRS-001,19,Metal Kapak Seti 2li,Kapak,20.2
-2025,6,IST-001,19,Metal Kapak Seti 2li,Kapak,48.0
-2025,6,IZM-001,19,Metal Kapak Seti 2li,Kapak,41.6
-2025,6,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,45.6
-2025,6,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,19.9
-2025,6,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,42.1
-2025,6,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,35.0
-2025,7,ANK-001,4,Celik Levha 2mm,Hammadde,59.7
-2025,7,BRS-001,4,Celik Levha 2mm,Hammadde,9.8
-2025,7,IST-001,4,Celik Levha 2mm,Hammadde,60.7
-2025,7,IZM-001,4,Celik Levha 2mm,Hammadde,34.0
-2025,7,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,65.7
-2025,7,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.4
-2025,7,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,69.9
-2025,7,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,38.4
-2025,7,ANK-001,6,Metal Masa,Mamul,43.2
-2025,7,BRS-001,6,Metal Masa,Mamul,22.0
-2025,7,IST-001,6,Metal Masa,Mamul,57.6
-2025,7,IZM-001,6,Metal Masa,Mamul,31.2
-2025,7,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,69.6
-2025,7,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,18.7
-2025,7,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,73.6
-2025,7,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,40.8
-2025,7,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,47.6
-2025,7,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,10.3
-2025,7,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,49.4
-2025,7,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,31.5
-2025,7,ANK-001,9,Koli 60x40x40,Koli,53.7
-2025,7,BRS-001,9,Koli 60x40x40,Koli,23.2
-2025,7,IST-001,9,Koli 60x40x40,Koli,62.2
-2025,7,IZM-001,9,Koli 60x40x40,Koli,43.2
-2025,7,ANK-001,10,Streç Film 50cm,Streç Film,52.6
-2025,7,BRS-001,10,Streç Film 50cm,Streç Film,24.7
-2025,7,IST-001,10,Streç Film 50cm,Streç Film,53.3
-2025,7,IZM-001,10,Streç Film 50cm,Streç Film,41.5
-2025,7,ANK-001,11,Alüminyum Profil 40x40,Metal,76.5
-2025,7,BRS-001,11,Alüminyum Profil 40x40,Metal,33.1
-2025,7,IST-001,11,Alüminyum Profil 40x40,Metal,83.7
-2025,7,IZM-001,11,Alüminyum Profil 40x40,Metal,57.5
-2025,7,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,62.1
-2025,7,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,26.0
-2025,7,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,62.8
-2025,7,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,46.2
-2025,7,ANK-001,13,Epoksi Boya Gri 7035,Boya,64.3
-2025,7,BRS-001,13,Epoksi Boya Gri 7035,Boya,13.3
-2025,7,IST-001,13,Epoksi Boya Gri 7035,Boya,67.6
-2025,7,IZM-001,13,Epoksi Boya Gri 7035,Boya,39.5
-2025,7,ANK-001,14,PP Granül Doğal,Plastik,59.3
-2025,7,BRS-001,14,PP Granül Doğal,Plastik,30.2
-2025,7,IST-001,14,PP Granül Doğal,Plastik,61.7
-2025,7,IZM-001,14,PP Granül Doğal,Plastik,44.9
-2025,7,ANK-001,15,Paslanmaz Boru Ø25,Metal,65.9
-2025,7,BRS-001,15,Paslanmaz Boru Ø25,Metal,33.4
-2025,7,IST-001,15,Paslanmaz Boru Ø25,Metal,65.7
-2025,7,IZM-001,15,Paslanmaz Boru Ø25,Metal,53.2
-2025,7,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,76.7
-2025,7,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,30.9
-2025,7,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,82.8
-2025,7,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,53.5
-2025,7,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,39.0
-2025,7,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,4.2
-2025,7,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,43.2
-2025,7,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,21.7
-2025,7,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,49.6
-2025,7,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,21.1
-2025,7,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,46.8
-2025,7,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,42.3
-2025,7,ANK-001,19,Metal Kapak Seti 2li,Kapak,52.4
-2025,7,BRS-001,19,Metal Kapak Seti 2li,Kapak,18.5
-2025,7,IST-001,19,Metal Kapak Seti 2li,Kapak,57.2
-2025,7,IZM-001,19,Metal Kapak Seti 2li,Kapak,38.4
-2025,7,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,43.9
-2025,7,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,20.2
-2025,7,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,51.7
-2025,7,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,35.3
-2025,8,ANK-001,4,Celik Levha 2mm,Hammadde,75.9
-2025,8,BRS-001,4,Celik Levha 2mm,Hammadde,12.1
-2025,8,IST-001,4,Celik Levha 2mm,Hammadde,102.3
-2025,8,IZM-001,4,Celik Levha 2mm,Hammadde,36.3
-2025,8,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,75.6
-2025,8,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.9
-2025,8,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,103.8
-2025,8,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,36.5
-2025,8,ANK-001,6,Metal Masa,Mamul,35.3
-2025,8,BRS-001,6,Metal Masa,Mamul,19.7
-2025,8,IST-001,6,Metal Masa,Mamul,71.2
-2025,8,IZM-001,6,Metal Masa,Mamul,25.9
-2025,8,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,83.0
-2025,8,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.0
-2025,8,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,106.9
-2025,8,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,41.0
-2025,8,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,50.0
-2025,8,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,9.0
-2025,8,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,72.9
-2025,8,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,27.7
-2025,8,ANK-001,9,Koli 60x40x40,Koli,53.2
-2025,8,BRS-001,9,Koli 60x40x40,Koli,19.5
-2025,8,IST-001,9,Koli 60x40x40,Koli,80.4
-2025,8,IZM-001,9,Koli 60x40x40,Koli,37.1
-2025,8,ANK-001,10,Streç Film 50cm,Streç Film,51.7
-2025,8,BRS-001,10,Streç Film 50cm,Streç Film,19.7
-2025,8,IST-001,10,Streç Film 50cm,Streç Film,58.1
-2025,8,IZM-001,10,Streç Film 50cm,Streç Film,35.5
-2025,8,ANK-001,11,Alüminyum Profil 40x40,Metal,87.5
-2025,8,BRS-001,11,Alüminyum Profil 40x40,Metal,26.3
-2025,8,IST-001,11,Alüminyum Profil 40x40,Metal,108.4
-2025,8,IZM-001,11,Alüminyum Profil 40x40,Metal,50.7
-2025,8,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,59.0
-2025,8,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,26.5
-2025,8,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,76.3
-2025,8,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,41.4
-2025,8,ANK-001,13,Epoksi Boya Gri 7035,Boya,73.6
-2025,8,BRS-001,13,Epoksi Boya Gri 7035,Boya,13.7
-2025,8,IST-001,13,Epoksi Boya Gri 7035,Boya,102.0
-2025,8,IZM-001,13,Epoksi Boya Gri 7035,Boya,37.1
-2025,8,ANK-001,14,PP Granül Doğal,Plastik,59.5
-2025,8,BRS-001,14,PP Granül Doğal,Plastik,26.4
-2025,8,IST-001,14,PP Granül Doğal,Plastik,72.2
-2025,8,IZM-001,14,PP Granül Doğal,Plastik,39.1
-2025,8,ANK-001,15,Paslanmaz Boru Ø25,Metal,60.7
-2025,8,BRS-001,15,Paslanmaz Boru Ø25,Metal,27.5
-2025,8,IST-001,15,Paslanmaz Boru Ø25,Metal,74.3
-2025,8,IZM-001,15,Paslanmaz Boru Ø25,Metal,41.8
-2025,8,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,96.8
-2025,8,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,28.7
-2025,8,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,117.0
-2025,8,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,53.5
-2025,8,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,40.8
-2025,8,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,3.1
-2025,8,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,66.7
-2025,8,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,16.8
-2025,8,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,49.8
-2025,8,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,18.3
-2025,8,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,52.8
-2025,8,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,35.5
-2025,8,ANK-001,19,Metal Kapak Seti 2li,Kapak,56.3
-2025,8,BRS-001,19,Metal Kapak Seti 2li,Kapak,21.3
-2025,8,IST-001,19,Metal Kapak Seti 2li,Kapak,82.6
-2025,8,IZM-001,19,Metal Kapak Seti 2li,Kapak,37.5
-2025,8,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,43.8
-2025,8,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,16.7
-2025,8,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,69.8
-2025,8,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,28.0
-2025,9,ANK-001,4,Celik Levha 2mm,Hammadde,74.7
-2025,9,BRS-001,4,Celik Levha 2mm,Hammadde,15.2
-2025,9,IST-001,4,Celik Levha 2mm,Hammadde,85.6
-2025,9,IZM-001,4,Celik Levha 2mm,Hammadde,37.9
-2025,9,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,72.5
-2025,9,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,19.0
-2025,9,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,84.7
-2025,9,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,36.0
-2025,9,ANK-001,6,Metal Masa,Mamul,40.2
-2025,9,BRS-001,6,Metal Masa,Mamul,19.8
-2025,9,IST-001,6,Metal Masa,Mamul,63.2
-2025,9,IZM-001,6,Metal Masa,Mamul,26.4
-2025,9,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,81.1
-2025,9,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,25.0
-2025,9,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,89.7
-2025,9,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,41.8
-2025,9,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,48.9
-2025,9,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,8.7
-2025,9,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,56.6
-2025,9,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,25.3
-2025,9,ANK-001,9,Koli 60x40x40,Koli,49.7
-2025,9,BRS-001,9,Koli 60x40x40,Koli,17.2
-2025,9,IST-001,9,Koli 60x40x40,Koli,62.2
-2025,9,IZM-001,9,Koli 60x40x40,Koli,32.8
-2025,9,ANK-001,10,Streç Film 50cm,Streç Film,48.4
-2025,9,BRS-001,10,Streç Film 50cm,Streç Film,14.5
-2025,9,IST-001,10,Streç Film 50cm,Streç Film,42.0
-2025,9,IZM-001,10,Streç Film 50cm,Streç Film,28.5
-2025,9,ANK-001,11,Alüminyum Profil 40x40,Metal,86.1
-2025,9,BRS-001,11,Alüminyum Profil 40x40,Metal,29.6
-2025,9,IST-001,11,Alüminyum Profil 40x40,Metal,92.6
-2025,9,IZM-001,11,Alüminyum Profil 40x40,Metal,51.0
-2025,9,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,57.0
-2025,9,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,25.6
-2025,9,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,62.9
-2025,9,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,37.5
-2025,9,ANK-001,13,Epoksi Boya Gri 7035,Boya,72.0
-2025,9,BRS-001,13,Epoksi Boya Gri 7035,Boya,17.4
-2025,9,IST-001,13,Epoksi Boya Gri 7035,Boya,84.2
-2025,9,IZM-001,13,Epoksi Boya Gri 7035,Boya,37.3
-2025,9,ANK-001,14,PP Granül Doğal,Plastik,54.6
-2025,9,BRS-001,14,PP Granül Doğal,Plastik,21.6
-2025,9,IST-001,14,PP Granül Doğal,Plastik,54.9
-2025,9,IZM-001,14,PP Granül Doğal,Plastik,33.2
-2025,9,ANK-001,15,Paslanmaz Boru Ø25,Metal,55.4
-2025,9,BRS-001,15,Paslanmaz Boru Ø25,Metal,23.1
-2025,9,IST-001,15,Paslanmaz Boru Ø25,Metal,57.7
-2025,9,IZM-001,15,Paslanmaz Boru Ø25,Metal,36.0
-2025,9,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,95.1
-2025,9,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,31.3
-2025,9,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,99.1
-2025,9,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,53.0
-2025,9,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,46.4
-2025,9,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,11.6
-2025,9,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,58.0
-2025,9,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,21.4
-2025,9,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,52.8
-2025,9,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,18.4
-2025,9,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,43.3
-2025,9,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,25.8
-2025,9,ANK-001,19,Metal Kapak Seti 2li,Kapak,52.2
-2025,9,BRS-001,19,Metal Kapak Seti 2li,Kapak,19.5
-2025,9,IST-001,19,Metal Kapak Seti 2li,Kapak,64.3
-2025,9,IZM-001,19,Metal Kapak Seti 2li,Kapak,33.7
-2025,9,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,40.7
-2025,9,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,15.1
-2025,9,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,51.9
-2025,9,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,23.8
-2025,10,ANK-001,4,Celik Levha 2mm,Hammadde,87.4
-2025,10,BRS-001,4,Celik Levha 2mm,Hammadde,17.7
-2025,10,IST-001,4,Celik Levha 2mm,Hammadde,127.7
-2025,10,IZM-001,4,Celik Levha 2mm,Hammadde,37.5
-2025,10,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,85.8
-2025,10,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,22.2
-2025,10,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,127.1
-2025,10,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,38.0
-2025,10,ANK-001,6,Metal Masa,Mamul,44.7
-2025,10,BRS-001,6,Metal Masa,Mamul,23.3
-2025,10,IST-001,6,Metal Masa,Mamul,100.2
-2025,10,IZM-001,6,Metal Masa,Mamul,24.2
-2025,10,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,94.2
-2025,10,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,30.2
-2025,10,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,131.4
-2025,10,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,45.5
-2025,10,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,61.2
-2025,10,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.5
-2025,10,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,101.1
-2025,10,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,29.1
-2025,10,ANK-001,9,Koli 60x40x40,Koli,66.2
-2025,10,BRS-001,9,Koli 60x40x40,Koli,26.2
-2025,10,IST-001,9,Koli 60x40x40,Koli,110.9
-2025,10,IZM-001,9,Koli 60x40x40,Koli,38.5
-2025,10,ANK-001,10,Streç Film 50cm,Streç Film,62.4
-2025,10,BRS-001,10,Streç Film 50cm,Streç Film,24.5
-2025,10,IST-001,10,Streç Film 50cm,Streç Film,82.8
-2025,10,IZM-001,10,Streç Film 50cm,Streç Film,37.1
-2025,10,ANK-001,11,Alüminyum Profil 40x40,Metal,98.1
-2025,10,BRS-001,11,Alüminyum Profil 40x40,Metal,35.8
-2025,10,IST-001,11,Alüminyum Profil 40x40,Metal,133.5
-2025,10,IZM-001,11,Alüminyum Profil 40x40,Metal,51.8
-2025,10,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,67.9
-2025,10,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,33.3
-2025,10,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,104.1
-2025,10,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,44.1
-2025,10,ANK-001,13,Epoksi Boya Gri 7035,Boya,83.3
-2025,10,BRS-001,13,Epoksi Boya Gri 7035,Boya,19.4
-2025,10,IST-001,13,Epoksi Boya Gri 7035,Boya,125.1
-2025,10,IZM-001,13,Epoksi Boya Gri 7035,Boya,38.0
-2025,10,ANK-001,14,PP Granül Doğal,Plastik,69.0
-2025,10,BRS-001,14,PP Granül Doğal,Plastik,30.9
-2025,10,IST-001,14,PP Granül Doğal,Plastik,101.1
-2025,10,IZM-001,14,PP Granül Doğal,Plastik,40.3
-2025,10,ANK-001,15,Paslanmaz Boru Ø25,Metal,66.6
-2025,10,BRS-001,15,Paslanmaz Boru Ø25,Metal,32.0
-2025,10,IST-001,15,Paslanmaz Boru Ø25,Metal,98.9
-2025,10,IZM-001,15,Paslanmaz Boru Ø25,Metal,39.9
-2025,10,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,108.8
-2025,10,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,36.2
-2025,10,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,139.6
-2025,10,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,56.1
-2025,10,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,54.0
-2025,10,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,14.0
-2025,10,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,98.2
-2025,10,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,18.8
-2025,10,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,64.7
-2025,10,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,26.5
-2025,10,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,84.0
-2025,10,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,37.8
-2025,10,ANK-001,19,Metal Kapak Seti 2li,Kapak,64.3
-2025,10,BRS-001,19,Metal Kapak Seti 2li,Kapak,26.4
-2025,10,IST-001,19,Metal Kapak Seti 2li,Kapak,108.1
-2025,10,IZM-001,19,Metal Kapak Seti 2li,Kapak,38.0
-2025,10,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,57.1
-2025,10,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,24.0
-2025,10,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,100.5
-2025,10,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,29.3
-2025,11,ANK-001,4,Celik Levha 2mm,Hammadde,74.6
-2025,11,BRS-001,4,Celik Levha 2mm,Hammadde,25.6
-2025,11,IST-001,4,Celik Levha 2mm,Hammadde,88.7
-2025,11,IZM-001,4,Celik Levha 2mm,Hammadde,38.4
-2025,11,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,78.3
-2025,11,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,33.8
-2025,11,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,92.3
-2025,11,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,43.8
-2025,11,ANK-001,6,Metal Masa,Mamul,42.4
-2025,11,BRS-001,6,Metal Masa,Mamul,31.0
-2025,11,IST-001,6,Metal Masa,Mamul,75.7
-2025,11,IZM-001,6,Metal Masa,Mamul,24.8
-2025,11,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,83.6
-2025,11,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,41.2
-2025,11,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,97.1
-2025,11,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,49.5
-2025,11,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,62.4
-2025,11,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,23.7
-2025,11,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,75.2
-2025,11,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,34.5
-2025,11,ANK-001,9,Koli 60x40x40,Koli,67.7
-2025,11,BRS-001,9,Koli 60x40x40,Koli,35.5
-2025,11,IST-001,9,Koli 60x40x40,Koli,85.4
-2025,11,IZM-001,9,Koli 60x40x40,Koli,43.0
-2025,11,ANK-001,10,Streç Film 50cm,Streç Film,64.6
-2025,11,BRS-001,10,Streç Film 50cm,Streç Film,33.7
-2025,11,IST-001,10,Streç Film 50cm,Streç Film,71.4
-2025,11,IZM-001,10,Streç Film 50cm,Streç Film,41.8
-2025,11,ANK-001,11,Alüminyum Profil 40x40,Metal,84.7
-2025,11,BRS-001,11,Alüminyum Profil 40x40,Metal,46.2
-2025,11,IST-001,11,Alüminyum Profil 40x40,Metal,99.5
-2025,11,IZM-001,11,Alüminyum Profil 40x40,Metal,53.9
-2025,11,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,73.3
-2025,11,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,44.9
-2025,11,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,91.9
-2025,11,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,51.0
-2025,11,ANK-001,13,Epoksi Boya Gri 7035,Boya,76.3
-2025,11,BRS-001,13,Epoksi Boya Gri 7035,Boya,29.4
-2025,11,IST-001,13,Epoksi Boya Gri 7035,Boya,90.6
-2025,11,IZM-001,13,Epoksi Boya Gri 7035,Boya,41.7
-2025,11,ANK-001,14,PP Granül Doğal,Plastik,72.1
-2025,11,BRS-001,14,PP Granül Doğal,Plastik,40.3
-2025,11,IST-001,14,PP Granül Doğal,Plastik,87.8
-2025,11,IZM-001,14,PP Granül Doğal,Plastik,44.8
-2025,11,ANK-001,15,Paslanmaz Boru Ø25,Metal,69.3
-2025,11,BRS-001,15,Paslanmaz Boru Ø25,Metal,41.2
-2025,11,IST-001,15,Paslanmaz Boru Ø25,Metal,83.6
-2025,11,IZM-001,15,Paslanmaz Boru Ø25,Metal,44.1
-2025,11,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,91.7
-2025,11,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,45.6
-2025,11,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,101.8
-2025,11,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,56.9
-2025,11,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,49.7
-2025,11,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,17.7
-2025,11,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,70.9
-2025,11,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,19.5
-2025,11,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,64.2
-2025,11,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,31.8
-2025,11,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,68.2
-2025,11,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,43.1
-2025,11,ANK-001,19,Metal Kapak Seti 2li,Kapak,66.9
-2025,11,BRS-001,19,Metal Kapak Seti 2li,Kapak,35.4
-2025,11,IST-001,19,Metal Kapak Seti 2li,Kapak,85.3
-2025,11,IZM-001,19,Metal Kapak Seti 2li,Kapak,41.5
-2025,11,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,58.1
-2025,11,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,32.8
-2025,11,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,75.5
-2025,11,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,33.6
-2025,12,ANK-001,4,Celik Levha 2mm,Hammadde,75.1
-2025,12,BRS-001,4,Celik Levha 2mm,Hammadde,27.4
-2025,12,IST-001,4,Celik Levha 2mm,Hammadde,85.3
-2025,12,IZM-001,4,Celik Levha 2mm,Hammadde,36.3
-2025,12,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,79.5
-2025,12,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,34.5
-2025,12,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,91.7
-2025,12,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,44.5
-2025,12,ANK-001,6,Metal Masa,Mamul,47.7
-2025,12,BRS-001,6,Metal Masa,Mamul,37.4
-2025,12,IST-001,6,Metal Masa,Mamul,69.0
-2025,12,IZM-001,6,Metal Masa,Mamul,26.7
-2025,12,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,84.5
-2025,12,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,40.4
-2025,12,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,95.7
-2025,12,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,49.5
-2025,12,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,60.9
-2025,12,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,25.4
-2025,12,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,67.5
-2025,12,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,32.4
-2025,12,ANK-001,9,Koli 60x40x40,Koli,65.3
-2025,12,BRS-001,9,Koli 60x40x40,Koli,36.1
-2025,12,IST-001,9,Koli 60x40x40,Koli,76.6
-2025,12,IZM-001,9,Koli 60x40x40,Koli,39.8
-2025,12,ANK-001,10,Streç Film 50cm,Streç Film,63.2
-2025,12,BRS-001,10,Streç Film 50cm,Streç Film,34.7
-2025,12,IST-001,10,Streç Film 50cm,Streç Film,60.9
-2025,12,IZM-001,10,Streç Film 50cm,Streç Film,38.9
-2025,12,ANK-001,11,Alüminyum Profil 40x40,Metal,84.3
-2025,12,BRS-001,11,Alüminyum Profil 40x40,Metal,44.9
-2025,12,IST-001,11,Alüminyum Profil 40x40,Metal,95.0
-2025,12,IZM-001,11,Alüminyum Profil 40x40,Metal,49.3
-2025,12,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,74.3
-2025,12,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,46.6
-2025,12,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,86.7
-2025,12,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,53.3
-2025,12,ANK-001,13,Epoksi Boya Gri 7035,Boya,77.8
-2025,12,BRS-001,13,Epoksi Boya Gri 7035,Boya,31.5
-2025,12,IST-001,13,Epoksi Boya Gri 7035,Boya,89.2
-2025,12,IZM-001,13,Epoksi Boya Gri 7035,Boya,41.6
-2025,12,ANK-001,14,PP Granül Doğal,Plastik,71.0
-2025,12,BRS-001,14,PP Granül Doğal,Plastik,39.0
-2025,12,IST-001,14,PP Granül Doğal,Plastik,78.7
-2025,12,IZM-001,14,PP Granül Doğal,Plastik,41.2
-2025,12,ANK-001,15,Paslanmaz Boru Ø25,Metal,68.9
-2025,12,BRS-001,15,Paslanmaz Boru Ø25,Metal,41.3
-2025,12,IST-001,15,Paslanmaz Boru Ø25,Metal,75.1
-2025,12,IZM-001,15,Paslanmaz Boru Ø25,Metal,41.3
-2025,12,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,91.2
-2025,12,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,44.6
-2025,12,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,98.4
-2025,12,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,53.0
-2025,12,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,57.2
-2025,12,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,23.8
-2025,12,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,65.7
-2025,12,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,24.2
-2025,12,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,63.3
-2025,12,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,35.8
-2025,12,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,58.6
-2025,12,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,40.3
-2025,12,ANK-001,19,Metal Kapak Seti 2li,Kapak,67.0
-2025,12,BRS-001,19,Metal Kapak Seti 2li,Kapak,37.7
-2025,12,IST-001,19,Metal Kapak Seti 2li,Kapak,77.6
-2025,12,IZM-001,19,Metal Kapak Seti 2li,Kapak,41.0
-2025,12,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,57.5
-2025,12,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,33.3
-2025,12,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,68.4
-2025,12,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,31.3
+﻿yil,ay,subeKodu,productID,productName,categoryName,tahmin_toplam,tahmin_sube
+2025,1,IST-001,4,Celik Levha 2mm,Hammadde,15.5,5.1
+2025,1,ANK-001,4,Celik Levha 2mm,Hammadde,15.5,4.0
+2025,1,IZM-001,4,Celik Levha 2mm,Hammadde,15.5,3.6
+2025,1,BRS-001,4,Celik Levha 2mm,Hammadde,15.5,2.7
+2025,2,IST-001,4,Celik Levha 2mm,Hammadde,15.1,5.0
+2025,2,ANK-001,4,Celik Levha 2mm,Hammadde,15.1,3.9
+2025,2,IZM-001,4,Celik Levha 2mm,Hammadde,15.1,3.6
+2025,2,BRS-001,4,Celik Levha 2mm,Hammadde,15.1,2.7
+2025,3,IST-001,4,Celik Levha 2mm,Hammadde,3.6,1.2
+2025,3,ANK-001,4,Celik Levha 2mm,Hammadde,3.6,0.9
+2025,3,IZM-001,4,Celik Levha 2mm,Hammadde,3.6,0.8
+2025,3,BRS-001,4,Celik Levha 2mm,Hammadde,3.6,0.6
+2025,4,IST-001,4,Celik Levha 2mm,Hammadde,14.9,4.9
+2025,4,ANK-001,4,Celik Levha 2mm,Hammadde,14.9,3.9
+2025,4,IZM-001,4,Celik Levha 2mm,Hammadde,14.9,3.5
+2025,4,BRS-001,4,Celik Levha 2mm,Hammadde,14.9,2.6
+2025,5,IST-001,4,Celik Levha 2mm,Hammadde,11.2,3.7
+2025,5,ANK-001,4,Celik Levha 2mm,Hammadde,11.2,2.9
+2025,5,IZM-001,4,Celik Levha 2mm,Hammadde,11.2,2.6
+2025,5,BRS-001,4,Celik Levha 2mm,Hammadde,11.2,2.0
+2025,6,IST-001,4,Celik Levha 2mm,Hammadde,6.2,2.0
+2025,6,ANK-001,4,Celik Levha 2mm,Hammadde,6.2,1.6
+2025,6,IZM-001,4,Celik Levha 2mm,Hammadde,6.2,1.5
+2025,6,BRS-001,4,Celik Levha 2mm,Hammadde,6.2,1.1
+2025,7,IST-001,4,Celik Levha 2mm,Hammadde,27.1,8.9
+2025,7,ANK-001,4,Celik Levha 2mm,Hammadde,27.1,7.0
+2025,7,IZM-001,4,Celik Levha 2mm,Hammadde,27.1,6.4
+2025,7,BRS-001,4,Celik Levha 2mm,Hammadde,27.1,4.8
+2025,8,IST-001,4,Celik Levha 2mm,Hammadde,15.2,5.0
+2025,8,ANK-001,4,Celik Levha 2mm,Hammadde,15.2,3.9
+2025,8,IZM-001,4,Celik Levha 2mm,Hammadde,15.2,3.6
+2025,8,BRS-001,4,Celik Levha 2mm,Hammadde,15.2,2.7
+2025,9,IST-001,4,Celik Levha 2mm,Hammadde,9.5,3.1
+2025,9,ANK-001,4,Celik Levha 2mm,Hammadde,9.5,2.5
+2025,9,IZM-001,4,Celik Levha 2mm,Hammadde,9.5,2.2
+2025,9,BRS-001,4,Celik Levha 2mm,Hammadde,9.5,1.7
+2025,10,IST-001,4,Celik Levha 2mm,Hammadde,9.5,3.1
+2025,10,ANK-001,4,Celik Levha 2mm,Hammadde,9.5,2.5
+2025,10,IZM-001,4,Celik Levha 2mm,Hammadde,9.5,2.2
+2025,10,BRS-001,4,Celik Levha 2mm,Hammadde,9.5,1.7
+2025,11,IST-001,4,Celik Levha 2mm,Hammadde,19.6,6.5
+2025,11,ANK-001,4,Celik Levha 2mm,Hammadde,19.6,5.1
+2025,11,IZM-001,4,Celik Levha 2mm,Hammadde,19.6,4.6
+2025,11,BRS-001,4,Celik Levha 2mm,Hammadde,19.6,3.5
+2025,12,IST-001,4,Celik Levha 2mm,Hammadde,20.1,6.6
+2025,12,ANK-001,4,Celik Levha 2mm,Hammadde,20.1,5.2
+2025,12,IZM-001,4,Celik Levha 2mm,Hammadde,20.1,4.7
+2025,12,BRS-001,4,Celik Levha 2mm,Hammadde,20.1,3.5
+2025,1,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,5.7
+2025,1,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,4.5
+2025,1,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,4.1
+2025,1,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,3.1
+2025,2,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.9,5.2
+2025,2,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.9,4.1
+2025,2,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.9,3.7
+2025,2,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.9,2.8
+2025,3,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,3.1,1.0
+2025,3,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,3.1,0.8
+2025,3,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,3.1,0.7
+2025,3,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,3.1,0.5
+2025,4,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,14.8,4.9
+2025,4,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,14.8,3.8
+2025,4,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,14.8,3.5
+2025,4,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,14.8,2.6
+2025,5,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.1,4.3
+2025,5,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.1,3.4
+2025,5,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.1,3.1
+2025,5,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.1,2.3
+2025,6,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.4,4.4
+2025,6,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.4,3.5
+2025,6,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.4,3.2
+2025,6,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,13.4,2.4
+2025,7,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,12.1,4.0
+2025,7,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,12.1,3.1
+2025,7,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,12.1,2.8
+2025,7,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,12.1,2.1
+2025,8,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,5.7
+2025,8,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,4.5
+2025,8,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,4.1
+2025,8,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,17.3,3.1
+2025,9,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.5,6.1
+2025,9,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.5,4.8
+2025,9,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.5,4.4
+2025,9,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,18.5,3.3
+2025,10,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,24.0,7.9
+2025,10,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,24.0,6.2
+2025,10,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,24.0,5.6
+2025,10,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,24.0,4.2
+2025,11,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,21.3,7.0
+2025,11,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,21.3,5.5
+2025,11,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,21.3,5.0
+2025,11,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,21.3,3.8
+2025,12,IST-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.8,5.2
+2025,12,ANK-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.8,4.1
+2025,12,IZM-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.8,3.7
+2025,12,BRS-001,5,Dolap Mentesesi,Bağlantı Elemanları,15.8,2.8
+2025,1,IST-001,6,Metal Masa,Mamul,19.8,6.5
+2025,1,ANK-001,6,Metal Masa,Mamul,19.8,5.1
+2025,1,IZM-001,6,Metal Masa,Mamul,19.8,4.7
+2025,1,BRS-001,6,Metal Masa,Mamul,19.8,3.5
+2025,2,IST-001,6,Metal Masa,Mamul,12.5,4.1
+2025,2,ANK-001,6,Metal Masa,Mamul,12.5,3.2
+2025,2,IZM-001,6,Metal Masa,Mamul,12.5,2.9
+2025,2,BRS-001,6,Metal Masa,Mamul,12.5,2.2
+2025,3,IST-001,6,Metal Masa,Mamul,15.2,5.0
+2025,3,ANK-001,6,Metal Masa,Mamul,15.2,3.9
+2025,3,IZM-001,6,Metal Masa,Mamul,15.2,3.6
+2025,3,BRS-001,6,Metal Masa,Mamul,15.2,2.7
+2025,4,IST-001,6,Metal Masa,Mamul,17.5,5.8
+2025,4,ANK-001,6,Metal Masa,Mamul,17.5,4.5
+2025,4,IZM-001,6,Metal Masa,Mamul,17.5,4.1
+2025,4,BRS-001,6,Metal Masa,Mamul,17.5,3.1
+2025,5,IST-001,6,Metal Masa,Mamul,10.7,3.5
+2025,5,ANK-001,6,Metal Masa,Mamul,10.7,2.8
+2025,5,IZM-001,6,Metal Masa,Mamul,10.7,2.5
+2025,5,BRS-001,6,Metal Masa,Mamul,10.7,1.9
+2025,6,IST-001,6,Metal Masa,Mamul,4.3,1.4
+2025,6,ANK-001,6,Metal Masa,Mamul,4.3,1.1
+2025,6,IZM-001,6,Metal Masa,Mamul,4.3,1.0
+2025,6,BRS-001,6,Metal Masa,Mamul,4.3,0.8
+2025,7,IST-001,6,Metal Masa,Mamul,16.6,5.5
+2025,7,ANK-001,6,Metal Masa,Mamul,16.6,4.3
+2025,7,IZM-001,6,Metal Masa,Mamul,16.6,3.9
+2025,7,BRS-001,6,Metal Masa,Mamul,16.6,2.9
+2025,8,IST-001,6,Metal Masa,Mamul,23.8,7.8
+2025,8,ANK-001,6,Metal Masa,Mamul,23.8,6.2
+2025,8,IZM-001,6,Metal Masa,Mamul,23.8,5.6
+2025,8,BRS-001,6,Metal Masa,Mamul,23.8,4.2
+2025,9,IST-001,6,Metal Masa,Mamul,12.0,4.0
+2025,9,ANK-001,6,Metal Masa,Mamul,12.0,3.1
+2025,9,IZM-001,6,Metal Masa,Mamul,12.0,2.8
+2025,9,BRS-001,6,Metal Masa,Mamul,12.0,2.1
+2025,10,IST-001,6,Metal Masa,Mamul,14.1,4.6
+2025,10,ANK-001,6,Metal Masa,Mamul,14.1,3.6
+2025,10,IZM-001,6,Metal Masa,Mamul,14.1,3.3
+2025,10,BRS-001,6,Metal Masa,Mamul,14.1,2.5
+2025,11,IST-001,6,Metal Masa,Mamul,14.4,4.7
+2025,11,ANK-001,6,Metal Masa,Mamul,14.4,3.7
+2025,11,IZM-001,6,Metal Masa,Mamul,14.4,3.4
+2025,11,BRS-001,6,Metal Masa,Mamul,14.4,2.5
+2025,12,IST-001,6,Metal Masa,Mamul,16.8,5.5
+2025,12,ANK-001,6,Metal Masa,Mamul,16.8,4.3
+2025,12,IZM-001,6,Metal Masa,Mamul,16.8,4.0
+2025,12,BRS-001,6,Metal Masa,Mamul,16.8,3.0
+2025,1,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,5.8
+2025,1,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,4.6
+2025,1,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,4.1
+2025,1,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,3.1
+2025,2,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.1,5.3
+2025,2,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.1,4.2
+2025,2,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.1,3.8
+2025,2,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.1,2.8
+2025,3,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,3.1,1.0
+2025,3,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,3.1,0.8
+2025,3,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,3.1,0.7
+2025,3,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,3.1,0.5
+2025,4,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.6,4.5
+2025,4,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.6,3.5
+2025,4,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.6,3.2
+2025,4,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.6,2.4
+2025,5,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,5.8
+2025,5,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,4.6
+2025,5,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,4.1
+2025,5,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.6,3.1
+2025,6,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.5,5.4
+2025,6,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.5,4.3
+2025,6,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.5,3.9
+2025,6,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,16.5,2.9
+2025,7,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,10.1,3.3
+2025,7,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,10.1,2.6
+2025,7,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,10.1,2.4
+2025,7,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,10.1,1.8
+2025,8,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,15.9,5.2
+2025,8,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,15.9,4.1
+2025,8,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,15.9,3.7
+2025,8,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,15.9,2.8
+2025,9,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.3,7.0
+2025,9,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.3,5.5
+2025,9,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.3,5.0
+2025,9,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,21.3,3.8
+2025,10,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.8,6.9
+2025,10,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.8,5.4
+2025,10,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.8,4.9
+2025,10,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,20.8,3.7
+2025,11,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.0,5.6
+2025,11,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.0,4.4
+2025,11,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.0,4.0
+2025,11,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,17.0,3.0
+2025,12,IST-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.8,4.5
+2025,12,ANK-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.8,3.6
+2025,12,IZM-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.8,3.2
+2025,12,BRS-001,7,Altıgen Civata M8,Bağlantı Elemanları,13.8,2.4
+2025,1,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,16.3,5.4
+2025,1,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,16.3,4.2
+2025,1,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,16.3,3.8
+2025,1,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,16.3,2.9
+2025,2,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,15.4,5.1
+2025,2,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,15.4,4.0
+2025,2,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,15.4,3.6
+2025,2,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,15.4,2.7
+2025,3,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,3.3,1.1
+2025,3,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,3.3,0.9
+2025,3,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,3.3,0.8
+2025,3,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,3.3,0.6
+2025,4,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.6,3.8
+2025,4,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.6,3.0
+2025,4,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.6,2.7
+2025,4,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.6,2.0
+2025,5,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.9,3.9
+2025,5,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.9,3.1
+2025,5,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.9,2.8
+2025,5,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,11.9,2.1
+2025,6,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,4.8,1.6
+2025,6,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,4.8,1.2
+2025,6,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,4.8,1.1
+2025,6,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,4.8,0.8
+2025,7,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,18.8,6.2
+2025,7,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,18.8,4.9
+2025,7,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,18.8,4.4
+2025,7,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,18.8,3.3
+2025,8,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.8,4.9
+2025,8,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.8,3.8
+2025,8,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.8,3.5
+2025,8,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.8,2.6
+2025,9,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,7.6,2.5
+2025,9,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,7.6,2.0
+2025,9,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,7.6,1.8
+2025,9,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,7.6,1.3
+2025,10,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,28.9,9.5
+2025,10,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,28.9,7.5
+2025,10,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,28.9,6.8
+2025,10,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,28.9,5.1
+2025,11,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.9,4.9
+2025,11,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.9,3.9
+2025,11,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.9,3.5
+2025,11,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,14.9,2.6
+2025,12,IST-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.4,4.4
+2025,12,ANK-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.4,3.5
+2025,12,IZM-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.4,3.2
+2025,12,BRS-001,8,Kesilmiş Sac Panel,Kesilmiş Sac,13.4,2.4
+2025,1,IST-001,9,Koli 60x40x40,Koli,17.5,5.8
+2025,1,ANK-001,9,Koli 60x40x40,Koli,17.5,4.5
+2025,1,IZM-001,9,Koli 60x40x40,Koli,17.5,4.1
+2025,1,BRS-001,9,Koli 60x40x40,Koli,17.5,3.1
+2025,2,IST-001,9,Koli 60x40x40,Koli,18.6,6.1
+2025,2,ANK-001,9,Koli 60x40x40,Koli,18.6,4.8
+2025,2,IZM-001,9,Koli 60x40x40,Koli,18.6,4.4
+2025,2,BRS-001,9,Koli 60x40x40,Koli,18.6,3.3
+2025,3,IST-001,9,Koli 60x40x40,Koli,6.1,2.0
+2025,3,ANK-001,9,Koli 60x40x40,Koli,6.1,1.6
+2025,3,IZM-001,9,Koli 60x40x40,Koli,6.1,1.4
+2025,3,BRS-001,9,Koli 60x40x40,Koli,6.1,1.1
+2025,4,IST-001,9,Koli 60x40x40,Koli,17.3,5.7
+2025,4,ANK-001,9,Koli 60x40x40,Koli,17.3,4.5
+2025,4,IZM-001,9,Koli 60x40x40,Koli,17.3,4.1
+2025,4,BRS-001,9,Koli 60x40x40,Koli,17.3,3.1
+2025,5,IST-001,9,Koli 60x40x40,Koli,11.8,3.9
+2025,5,ANK-001,9,Koli 60x40x40,Koli,11.8,3.1
+2025,5,IZM-001,9,Koli 60x40x40,Koli,11.8,2.8
+2025,5,BRS-001,9,Koli 60x40x40,Koli,11.8,2.1
+2025,6,IST-001,9,Koli 60x40x40,Koli,11.3,3.7
+2025,6,ANK-001,9,Koli 60x40x40,Koli,11.3,2.9
+2025,6,IZM-001,9,Koli 60x40x40,Koli,11.3,2.7
+2025,6,BRS-001,9,Koli 60x40x40,Koli,11.3,2.0
+2025,7,IST-001,9,Koli 60x40x40,Koli,8.0,2.6
+2025,7,ANK-001,9,Koli 60x40x40,Koli,8.0,2.1
+2025,7,IZM-001,9,Koli 60x40x40,Koli,8.0,1.9
+2025,7,BRS-001,9,Koli 60x40x40,Koli,8.0,1.4
+2025,8,IST-001,9,Koli 60x40x40,Koli,11.6,3.8
+2025,8,ANK-001,9,Koli 60x40x40,Koli,11.6,3.0
+2025,8,IZM-001,9,Koli 60x40x40,Koli,11.6,2.7
+2025,8,BRS-001,9,Koli 60x40x40,Koli,11.6,2.0
+2025,9,IST-001,9,Koli 60x40x40,Koli,9.9,3.3
+2025,9,ANK-001,9,Koli 60x40x40,Koli,9.9,2.6
+2025,9,IZM-001,9,Koli 60x40x40,Koli,9.9,2.3
+2025,9,BRS-001,9,Koli 60x40x40,Koli,9.9,1.7
+2025,10,IST-001,9,Koli 60x40x40,Koli,11.1,3.7
+2025,10,ANK-001,9,Koli 60x40x40,Koli,11.1,2.9
+2025,10,IZM-001,9,Koli 60x40x40,Koli,11.1,2.6
+2025,10,BRS-001,9,Koli 60x40x40,Koli,11.1,2.0
+2025,11,IST-001,9,Koli 60x40x40,Koli,16.7,5.5
+2025,11,ANK-001,9,Koli 60x40x40,Koli,16.7,4.3
+2025,11,IZM-001,9,Koli 60x40x40,Koli,16.7,3.9
+2025,11,BRS-001,9,Koli 60x40x40,Koli,16.7,2.9
+2025,12,IST-001,9,Koli 60x40x40,Koli,17.6,5.8
+2025,12,ANK-001,9,Koli 60x40x40,Koli,17.6,4.6
+2025,12,IZM-001,9,Koli 60x40x40,Koli,17.6,4.1
+2025,12,BRS-001,9,Koli 60x40x40,Koli,17.6,3.1
+2025,1,IST-001,10,Streç Film 50cm,Streç Film,19.5,6.4
+2025,1,ANK-001,10,Streç Film 50cm,Streç Film,19.5,5.0
+2025,1,IZM-001,10,Streç Film 50cm,Streç Film,19.5,4.6
+2025,1,BRS-001,10,Streç Film 50cm,Streç Film,19.5,3.4
+2025,2,IST-001,10,Streç Film 50cm,Streç Film,22.3,7.3
+2025,2,ANK-001,10,Streç Film 50cm,Streç Film,22.3,5.8
+2025,2,IZM-001,10,Streç Film 50cm,Streç Film,22.3,5.2
+2025,2,BRS-001,10,Streç Film 50cm,Streç Film,22.3,3.9
+2025,3,IST-001,10,Streç Film 50cm,Streç Film,8.5,2.8
+2025,3,ANK-001,10,Streç Film 50cm,Streç Film,8.5,2.2
+2025,3,IZM-001,10,Streç Film 50cm,Streç Film,8.5,2.0
+2025,3,BRS-001,10,Streç Film 50cm,Streç Film,8.5,1.5
+2025,4,IST-001,10,Streç Film 50cm,Streç Film,10.7,3.5
+2025,4,ANK-001,10,Streç Film 50cm,Streç Film,10.7,2.8
+2025,4,IZM-001,10,Streç Film 50cm,Streç Film,10.7,2.5
+2025,4,BRS-001,10,Streç Film 50cm,Streç Film,10.7,1.9
+2025,5,IST-001,10,Streç Film 50cm,Streç Film,7.4,2.4
+2025,5,ANK-001,10,Streç Film 50cm,Streç Film,7.4,1.9
+2025,5,IZM-001,10,Streç Film 50cm,Streç Film,7.4,1.7
+2025,5,BRS-001,10,Streç Film 50cm,Streç Film,7.4,1.3
+2025,6,IST-001,10,Streç Film 50cm,Streç Film,18.4,6.1
+2025,6,ANK-001,10,Streç Film 50cm,Streç Film,18.4,4.8
+2025,6,IZM-001,10,Streç Film 50cm,Streç Film,18.4,4.3
+2025,6,BRS-001,10,Streç Film 50cm,Streç Film,18.4,3.2
+2025,7,IST-001,10,Streç Film 50cm,Streç Film,20.4,6.7
+2025,7,ANK-001,10,Streç Film 50cm,Streç Film,20.4,5.3
+2025,7,IZM-001,10,Streç Film 50cm,Streç Film,20.4,4.8
+2025,7,BRS-001,10,Streç Film 50cm,Streç Film,20.4,3.6
+2025,8,IST-001,10,Streç Film 50cm,Streç Film,17.1,5.6
+2025,8,ANK-001,10,Streç Film 50cm,Streç Film,17.1,4.4
+2025,8,IZM-001,10,Streç Film 50cm,Streç Film,17.1,4.0
+2025,8,BRS-001,10,Streç Film 50cm,Streç Film,17.1,3.0
+2025,9,IST-001,10,Streç Film 50cm,Streç Film,11.9,3.9
+2025,9,ANK-001,10,Streç Film 50cm,Streç Film,11.9,3.1
+2025,9,IZM-001,10,Streç Film 50cm,Streç Film,11.9,2.8
+2025,9,BRS-001,10,Streç Film 50cm,Streç Film,11.9,2.1
+2025,10,IST-001,10,Streç Film 50cm,Streç Film,11.1,3.7
+2025,10,ANK-001,10,Streç Film 50cm,Streç Film,11.1,2.9
+2025,10,IZM-001,10,Streç Film 50cm,Streç Film,11.1,2.6
+2025,10,BRS-001,10,Streç Film 50cm,Streç Film,11.1,2.0
+2025,11,IST-001,10,Streç Film 50cm,Streç Film,11.6,3.8
+2025,11,ANK-001,10,Streç Film 50cm,Streç Film,11.6,3.0
+2025,11,IZM-001,10,Streç Film 50cm,Streç Film,11.6,2.7
+2025,11,BRS-001,10,Streç Film 50cm,Streç Film,11.6,2.0
+2025,12,IST-001,10,Streç Film 50cm,Streç Film,16.9,5.6
+2025,12,ANK-001,10,Streç Film 50cm,Streç Film,16.9,4.4
+2025,12,IZM-001,10,Streç Film 50cm,Streç Film,16.9,4.0
+2025,12,BRS-001,10,Streç Film 50cm,Streç Film,16.9,3.0
+2025,1,IST-001,11,Alüminyum Profil 40x40,Metal,18.5,6.1
+2025,1,ANK-001,11,Alüminyum Profil 40x40,Metal,18.5,4.8
+2025,1,IZM-001,11,Alüminyum Profil 40x40,Metal,18.5,4.4
+2025,1,BRS-001,11,Alüminyum Profil 40x40,Metal,18.5,3.3
+2025,2,IST-001,11,Alüminyum Profil 40x40,Metal,20.1,6.6
+2025,2,ANK-001,11,Alüminyum Profil 40x40,Metal,20.1,5.2
+2025,2,IZM-001,11,Alüminyum Profil 40x40,Metal,20.1,4.7
+2025,2,BRS-001,11,Alüminyum Profil 40x40,Metal,20.1,3.5
+2025,3,IST-001,11,Alüminyum Profil 40x40,Metal,6.0,2.0
+2025,3,ANK-001,11,Alüminyum Profil 40x40,Metal,6.0,1.6
+2025,3,IZM-001,11,Alüminyum Profil 40x40,Metal,6.0,1.4
+2025,3,BRS-001,11,Alüminyum Profil 40x40,Metal,6.0,1.1
+2025,4,IST-001,11,Alüminyum Profil 40x40,Metal,13.4,4.4
+2025,4,ANK-001,11,Alüminyum Profil 40x40,Metal,13.4,3.5
+2025,4,IZM-001,11,Alüminyum Profil 40x40,Metal,13.4,3.2
+2025,4,BRS-001,11,Alüminyum Profil 40x40,Metal,13.4,2.4
+2025,5,IST-001,11,Alüminyum Profil 40x40,Metal,4.5,1.5
+2025,5,ANK-001,11,Alüminyum Profil 40x40,Metal,4.5,1.2
+2025,5,IZM-001,11,Alüminyum Profil 40x40,Metal,4.5,1.1
+2025,5,BRS-001,11,Alüminyum Profil 40x40,Metal,4.5,0.8
+2025,6,IST-001,11,Alüminyum Profil 40x40,Metal,11.5,3.8
+2025,6,ANK-001,11,Alüminyum Profil 40x40,Metal,11.5,3.0
+2025,6,IZM-001,11,Alüminyum Profil 40x40,Metal,11.5,2.7
+2025,6,BRS-001,11,Alüminyum Profil 40x40,Metal,11.5,2.0
+2025,7,IST-001,11,Alüminyum Profil 40x40,Metal,16.3,5.4
+2025,7,ANK-001,11,Alüminyum Profil 40x40,Metal,16.3,4.2
+2025,7,IZM-001,11,Alüminyum Profil 40x40,Metal,16.3,3.8
+2025,7,BRS-001,11,Alüminyum Profil 40x40,Metal,16.3,2.9
+2025,8,IST-001,11,Alüminyum Profil 40x40,Metal,12.5,4.1
+2025,8,ANK-001,11,Alüminyum Profil 40x40,Metal,12.5,3.2
+2025,8,IZM-001,11,Alüminyum Profil 40x40,Metal,12.5,2.9
+2025,8,BRS-001,11,Alüminyum Profil 40x40,Metal,12.5,2.2
+2025,9,IST-001,11,Alüminyum Profil 40x40,Metal,8.4,2.8
+2025,9,ANK-001,11,Alüminyum Profil 40x40,Metal,8.4,2.2
+2025,9,IZM-001,11,Alüminyum Profil 40x40,Metal,8.4,2.0
+2025,9,BRS-001,11,Alüminyum Profil 40x40,Metal,8.4,1.5
+2025,10,IST-001,11,Alüminyum Profil 40x40,Metal,12.7,4.2
+2025,10,ANK-001,11,Alüminyum Profil 40x40,Metal,12.7,3.3
+2025,10,IZM-001,11,Alüminyum Profil 40x40,Metal,12.7,3.0
+2025,10,BRS-001,11,Alüminyum Profil 40x40,Metal,12.7,2.2
+2025,11,IST-001,11,Alüminyum Profil 40x40,Metal,18.5,6.1
+2025,11,ANK-001,11,Alüminyum Profil 40x40,Metal,18.5,4.8
+2025,11,IZM-001,11,Alüminyum Profil 40x40,Metal,18.5,4.4
+2025,11,BRS-001,11,Alüminyum Profil 40x40,Metal,18.5,3.3
+2025,12,IST-001,11,Alüminyum Profil 40x40,Metal,18.9,6.2
+2025,12,ANK-001,11,Alüminyum Profil 40x40,Metal,18.9,4.9
+2025,12,IZM-001,11,Alüminyum Profil 40x40,Metal,18.9,4.4
+2025,12,BRS-001,11,Alüminyum Profil 40x40,Metal,18.9,3.3
+2025,1,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,4.9
+2025,1,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,3.9
+2025,1,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,3.5
+2025,1,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,2.6
+2025,2,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.4,3.8
+2025,2,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.4,3.0
+2025,2,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.4,2.7
+2025,2,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.4,2.0
+2025,3,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,7.3,2.4
+2025,3,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,7.3,1.9
+2025,3,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,7.3,1.7
+2025,3,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,7.3,1.3
+2025,4,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,5.7
+2025,4,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,4.5
+2025,4,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,4.1
+2025,4,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,3.1
+2025,5,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.1,5.0
+2025,5,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.1,3.9
+2025,5,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.1,3.6
+2025,5,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.1,2.7
+2025,6,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.2,4.7
+2025,6,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.2,3.7
+2025,6,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.2,3.3
+2025,6,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.2,2.5
+2025,7,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.8,3.9
+2025,7,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.8,3.1
+2025,7,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.8,2.8
+2025,7,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,11.8,2.1
+2025,8,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,4.9
+2025,8,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,3.9
+2025,8,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,3.5
+2025,8,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.9,2.6
+2025,9,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.7,4.8
+2025,9,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.7,3.8
+2025,9,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.7,3.5
+2025,9,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.7,2.6
+2025,10,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,5.7
+2025,10,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,4.5
+2025,10,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,4.1
+2025,10,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,17.3,3.1
+2025,11,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.0,4.9
+2025,11,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.0,3.9
+2025,11,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.0,3.5
+2025,11,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,15.0,2.6
+2025,12,IST-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.4,4.7
+2025,12,ANK-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.4,3.7
+2025,12,IZM-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.4,3.4
+2025,12,BRS-001,12,Rondela M8 Çelik,Bağlantı Elemanları,14.4,2.5
+2025,1,IST-001,13,Epoksi Boya Gri 7035,Boya,12.4,4.1
+2025,1,ANK-001,13,Epoksi Boya Gri 7035,Boya,12.4,3.2
+2025,1,IZM-001,13,Epoksi Boya Gri 7035,Boya,12.4,2.9
+2025,1,BRS-001,13,Epoksi Boya Gri 7035,Boya,12.4,2.2
+2025,2,IST-001,13,Epoksi Boya Gri 7035,Boya,8.2,2.7
+2025,2,ANK-001,13,Epoksi Boya Gri 7035,Boya,8.2,2.1
+2025,2,IZM-001,13,Epoksi Boya Gri 7035,Boya,8.2,1.9
+2025,2,BRS-001,13,Epoksi Boya Gri 7035,Boya,8.2,1.4
+2025,3,IST-001,13,Epoksi Boya Gri 7035,Boya,9.9,3.3
+2025,3,ANK-001,13,Epoksi Boya Gri 7035,Boya,9.9,2.6
+2025,3,IZM-001,13,Epoksi Boya Gri 7035,Boya,9.9,2.3
+2025,3,BRS-001,13,Epoksi Boya Gri 7035,Boya,9.9,1.7
+2025,4,IST-001,13,Epoksi Boya Gri 7035,Boya,6.6,2.2
+2025,4,ANK-001,13,Epoksi Boya Gri 7035,Boya,6.6,1.7
+2025,4,IZM-001,13,Epoksi Boya Gri 7035,Boya,6.6,1.6
+2025,4,BRS-001,13,Epoksi Boya Gri 7035,Boya,6.6,1.2
+2025,5,IST-001,13,Epoksi Boya Gri 7035,Boya,14.7,4.8
+2025,5,ANK-001,13,Epoksi Boya Gri 7035,Boya,14.7,3.8
+2025,5,IZM-001,13,Epoksi Boya Gri 7035,Boya,14.7,3.5
+2025,5,BRS-001,13,Epoksi Boya Gri 7035,Boya,14.7,2.6
+2025,6,IST-001,13,Epoksi Boya Gri 7035,Boya,10.8,3.6
+2025,6,ANK-001,13,Epoksi Boya Gri 7035,Boya,10.8,2.8
+2025,6,IZM-001,13,Epoksi Boya Gri 7035,Boya,10.8,2.5
+2025,6,BRS-001,13,Epoksi Boya Gri 7035,Boya,10.8,1.9
+2025,7,IST-001,13,Epoksi Boya Gri 7035,Boya,10.3,3.4
+2025,7,ANK-001,13,Epoksi Boya Gri 7035,Boya,10.3,2.7
+2025,7,IZM-001,13,Epoksi Boya Gri 7035,Boya,10.3,2.4
+2025,7,BRS-001,13,Epoksi Boya Gri 7035,Boya,10.3,1.8
+2025,8,IST-001,13,Epoksi Boya Gri 7035,Boya,11.9,3.9
+2025,8,ANK-001,13,Epoksi Boya Gri 7035,Boya,11.9,3.1
+2025,8,IZM-001,13,Epoksi Boya Gri 7035,Boya,11.9,2.8
+2025,8,BRS-001,13,Epoksi Boya Gri 7035,Boya,11.9,2.1
+2025,9,IST-001,13,Epoksi Boya Gri 7035,Boya,10.4,3.4
+2025,9,ANK-001,13,Epoksi Boya Gri 7035,Boya,10.4,2.7
+2025,9,IZM-001,13,Epoksi Boya Gri 7035,Boya,10.4,2.4
+2025,9,BRS-001,13,Epoksi Boya Gri 7035,Boya,10.4,1.8
+2025,10,IST-001,13,Epoksi Boya Gri 7035,Boya,11.8,3.9
+2025,10,ANK-001,13,Epoksi Boya Gri 7035,Boya,11.8,3.1
+2025,10,IZM-001,13,Epoksi Boya Gri 7035,Boya,11.8,2.8
+2025,10,BRS-001,13,Epoksi Boya Gri 7035,Boya,11.8,2.1
+2025,11,IST-001,13,Epoksi Boya Gri 7035,Boya,17.4,5.7
+2025,11,ANK-001,13,Epoksi Boya Gri 7035,Boya,17.4,4.5
+2025,11,IZM-001,13,Epoksi Boya Gri 7035,Boya,17.4,4.1
+2025,11,BRS-001,13,Epoksi Boya Gri 7035,Boya,17.4,3.1
+2025,12,IST-001,13,Epoksi Boya Gri 7035,Boya,20.0,6.6
+2025,12,ANK-001,13,Epoksi Boya Gri 7035,Boya,20.0,5.2
+2025,12,IZM-001,13,Epoksi Boya Gri 7035,Boya,20.0,4.7
+2025,12,BRS-001,13,Epoksi Boya Gri 7035,Boya,20.0,3.5
+2025,1,IST-001,14,PP Granül Doğal,Plastik,15.9,5.2
+2025,1,ANK-001,14,PP Granül Doğal,Plastik,15.9,4.1
+2025,1,IZM-001,14,PP Granül Doğal,Plastik,15.9,3.7
+2025,1,BRS-001,14,PP Granül Doğal,Plastik,15.9,2.8
+2025,2,IST-001,14,PP Granül Doğal,Plastik,14.0,4.6
+2025,2,ANK-001,14,PP Granül Doğal,Plastik,14.0,3.6
+2025,2,IZM-001,14,PP Granül Doğal,Plastik,14.0,3.3
+2025,2,BRS-001,14,PP Granül Doğal,Plastik,14.0,2.5
+2025,3,IST-001,14,PP Granül Doğal,Plastik,5.8,1.9
+2025,3,ANK-001,14,PP Granül Doğal,Plastik,5.8,1.5
+2025,3,IZM-001,14,PP Granül Doğal,Plastik,5.8,1.4
+2025,3,BRS-001,14,PP Granül Doğal,Plastik,5.8,1.0
+2025,4,IST-001,14,PP Granül Doğal,Plastik,9.2,3.0
+2025,4,ANK-001,14,PP Granül Doğal,Plastik,9.2,2.4
+2025,4,IZM-001,14,PP Granül Doğal,Plastik,9.2,2.2
+2025,4,BRS-001,14,PP Granül Doğal,Plastik,9.2,1.6
+2025,5,IST-001,14,PP Granül Doğal,Plastik,12.9,4.2
+2025,5,ANK-001,14,PP Granül Doğal,Plastik,12.9,3.3
+2025,5,IZM-001,14,PP Granül Doğal,Plastik,12.9,3.0
+2025,5,BRS-001,14,PP Granül Doğal,Plastik,12.9,2.3
+2025,6,IST-001,14,PP Granül Doğal,Plastik,3.8,1.3
+2025,6,ANK-001,14,PP Granül Doğal,Plastik,3.8,1.0
+2025,6,IZM-001,14,PP Granül Doğal,Plastik,3.8,0.9
+2025,6,BRS-001,14,PP Granül Doğal,Plastik,3.8,0.7
+2025,7,IST-001,14,PP Granül Doğal,Plastik,19.6,6.5
+2025,7,ANK-001,14,PP Granül Doğal,Plastik,19.6,5.1
+2025,7,IZM-001,14,PP Granül Doğal,Plastik,19.6,4.6
+2025,7,BRS-001,14,PP Granül Doğal,Plastik,19.6,3.5
+2025,8,IST-001,14,PP Granül Doğal,Plastik,21.1,7.0
+2025,8,ANK-001,14,PP Granül Doğal,Plastik,21.1,5.5
+2025,8,IZM-001,14,PP Granül Doğal,Plastik,21.1,5.0
+2025,8,BRS-001,14,PP Granül Doğal,Plastik,21.1,3.7
+2025,9,IST-001,14,PP Granül Doğal,Plastik,6.1,2.0
+2025,9,ANK-001,14,PP Granül Doğal,Plastik,6.1,1.6
+2025,9,IZM-001,14,PP Granül Doğal,Plastik,6.1,1.4
+2025,9,BRS-001,14,PP Granül Doğal,Plastik,6.1,1.1
+2025,10,IST-001,14,PP Granül Doğal,Plastik,16.1,5.3
+2025,10,ANK-001,14,PP Granül Doğal,Plastik,16.1,4.2
+2025,10,IZM-001,14,PP Granül Doğal,Plastik,16.1,3.8
+2025,10,BRS-001,14,PP Granül Doğal,Plastik,16.1,2.8
+2025,11,IST-001,14,PP Granül Doğal,Plastik,12.4,4.1
+2025,11,ANK-001,14,PP Granül Doğal,Plastik,12.4,3.2
+2025,11,IZM-001,14,PP Granül Doğal,Plastik,12.4,2.9
+2025,11,BRS-001,14,PP Granül Doğal,Plastik,12.4,2.2
+2025,12,IST-001,14,PP Granül Doğal,Plastik,13.3,4.4
+2025,12,ANK-001,14,PP Granül Doğal,Plastik,13.3,3.4
+2025,12,IZM-001,14,PP Granül Doğal,Plastik,13.3,3.1
+2025,12,BRS-001,14,PP Granül Doğal,Plastik,13.3,2.3
+2025,1,IST-001,15,Paslanmaz Boru Ø25,Metal,16.1,5.3
+2025,1,ANK-001,15,Paslanmaz Boru Ø25,Metal,16.1,4.2
+2025,1,IZM-001,15,Paslanmaz Boru Ø25,Metal,16.1,3.8
+2025,1,BRS-001,15,Paslanmaz Boru Ø25,Metal,16.1,2.8
+2025,2,IST-001,15,Paslanmaz Boru Ø25,Metal,14.6,4.8
+2025,2,ANK-001,15,Paslanmaz Boru Ø25,Metal,14.6,3.8
+2025,2,IZM-001,15,Paslanmaz Boru Ø25,Metal,14.6,3.4
+2025,2,BRS-001,15,Paslanmaz Boru Ø25,Metal,14.6,2.6
+2025,3,IST-001,15,Paslanmaz Boru Ø25,Metal,1.8,0.6
+2025,3,ANK-001,15,Paslanmaz Boru Ø25,Metal,1.8,0.5
+2025,3,IZM-001,15,Paslanmaz Boru Ø25,Metal,1.8,0.4
+2025,3,BRS-001,15,Paslanmaz Boru Ø25,Metal,1.8,0.3
+2025,4,IST-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.9
+2025,4,ANK-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.3
+2025,4,IZM-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.0
+2025,4,BRS-001,15,Paslanmaz Boru Ø25,Metal,8.7,1.5
+2025,5,IST-001,15,Paslanmaz Boru Ø25,Metal,18.7,6.2
+2025,5,ANK-001,15,Paslanmaz Boru Ø25,Metal,18.7,4.8
+2025,5,IZM-001,15,Paslanmaz Boru Ø25,Metal,18.7,4.4
+2025,5,BRS-001,15,Paslanmaz Boru Ø25,Metal,18.7,3.3
+2025,6,IST-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.9
+2025,6,ANK-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.3
+2025,6,IZM-001,15,Paslanmaz Boru Ø25,Metal,8.7,2.0
+2025,6,BRS-001,15,Paslanmaz Boru Ø25,Metal,8.7,1.5
+2025,7,IST-001,15,Paslanmaz Boru Ø25,Metal,18.8,6.2
+2025,7,ANK-001,15,Paslanmaz Boru Ø25,Metal,18.8,4.9
+2025,7,IZM-001,15,Paslanmaz Boru Ø25,Metal,18.8,4.4
+2025,7,BRS-001,15,Paslanmaz Boru Ø25,Metal,18.8,3.3
+2025,8,IST-001,15,Paslanmaz Boru Ø25,Metal,17.2,5.7
+2025,8,ANK-001,15,Paslanmaz Boru Ø25,Metal,17.2,4.5
+2025,8,IZM-001,15,Paslanmaz Boru Ø25,Metal,17.2,4.0
+2025,8,BRS-001,15,Paslanmaz Boru Ø25,Metal,17.2,3.0
+2025,9,IST-001,15,Paslanmaz Boru Ø25,Metal,12.8,4.2
+2025,9,ANK-001,15,Paslanmaz Boru Ø25,Metal,12.8,3.3
+2025,9,IZM-001,15,Paslanmaz Boru Ø25,Metal,12.8,3.0
+2025,9,BRS-001,15,Paslanmaz Boru Ø25,Metal,12.8,2.3
+2025,10,IST-001,15,Paslanmaz Boru Ø25,Metal,9.2,3.0
+2025,10,ANK-001,15,Paslanmaz Boru Ø25,Metal,9.2,2.4
+2025,10,IZM-001,15,Paslanmaz Boru Ø25,Metal,9.2,2.2
+2025,10,BRS-001,15,Paslanmaz Boru Ø25,Metal,9.2,1.6
+2025,11,IST-001,15,Paslanmaz Boru Ø25,Metal,13.5,4.4
+2025,11,ANK-001,15,Paslanmaz Boru Ø25,Metal,13.5,3.5
+2025,11,IZM-001,15,Paslanmaz Boru Ø25,Metal,13.5,3.2
+2025,11,BRS-001,15,Paslanmaz Boru Ø25,Metal,13.5,2.4
+2025,12,IST-001,15,Paslanmaz Boru Ø25,Metal,12.8,4.2
+2025,12,ANK-001,15,Paslanmaz Boru Ø25,Metal,12.8,3.3
+2025,12,IZM-001,15,Paslanmaz Boru Ø25,Metal,12.8,3.0
+2025,12,BRS-001,15,Paslanmaz Boru Ø25,Metal,12.8,2.3
+2025,1,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,20.1,6.6
+2025,1,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,20.1,5.2
+2025,1,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,20.1,4.7
+2025,1,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,20.1,3.5
+2025,2,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,21.3,7.0
+2025,2,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,21.3,5.5
+2025,2,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,21.3,5.0
+2025,2,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,21.3,3.8
+2025,3,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,5.8,1.9
+2025,3,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,5.8,1.5
+2025,3,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,5.8,1.4
+2025,3,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,5.8,1.0
+2025,4,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,9.6,3.2
+2025,4,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,9.6,2.5
+2025,4,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,9.6,2.3
+2025,4,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,9.6,1.7
+2025,5,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,6.0,2.0
+2025,5,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,6.0,1.6
+2025,5,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,6.0,1.4
+2025,5,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,6.0,1.1
+2025,6,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.8,4.2
+2025,6,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.8,3.3
+2025,6,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.8,3.0
+2025,6,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.8,2.3
+2025,7,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.1,4.0
+2025,7,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.1,3.1
+2025,7,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.1,2.8
+2025,7,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.1,2.1
+2025,8,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,11.8,3.9
+2025,8,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,11.8,3.1
+2025,8,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,11.8,2.8
+2025,8,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,11.8,2.1
+2025,9,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,4.3,1.4
+2025,9,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,4.3,1.1
+2025,9,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,4.3,1.0
+2025,9,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,4.3,0.8
+2025,10,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,27.1,8.9
+2025,10,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,27.1,7.0
+2025,10,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,27.1,6.4
+2025,10,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,27.1,4.8
+2025,11,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,8.6,2.8
+2025,11,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,8.6,2.2
+2025,11,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,8.6,2.0
+2025,11,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,8.6,1.5
+2025,12,IST-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.0,4.0
+2025,12,ANK-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.0,3.1
+2025,12,IZM-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.0,2.8
+2025,12,BRS-001,16,Boyalı Sac Panel,İşlenmiş Parça,12.0,2.1
+2025,1,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,18.8,6.2
+2025,1,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,18.8,4.9
+2025,1,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,18.8,4.4
+2025,1,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,18.8,3.3
+2025,2,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,14.5,4.8
+2025,2,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,14.5,3.8
+2025,2,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,14.5,3.4
+2025,2,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,14.5,2.6
+2025,3,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,9.1,3.0
+2025,3,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,9.1,2.4
+2025,3,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,9.1,2.1
+2025,3,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,9.1,1.6
+2025,4,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,13.7,4.5
+2025,4,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,13.7,3.5
+2025,4,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,13.7,3.2
+2025,4,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,13.7,2.4
+2025,5,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,10.0,3.3
+2025,5,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,10.0,2.6
+2025,5,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,10.0,2.4
+2025,5,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,10.0,1.8
+2025,6,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,9.2,3.0
+2025,6,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,9.2,2.4
+2025,6,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,9.2,2.2
+2025,6,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,9.2,1.6
+2025,7,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,5.9
+2025,7,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,4.6
+2025,7,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,4.2
+2025,7,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,3.2
+2025,8,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,21.3,7.0
+2025,8,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,21.3,5.5
+2025,8,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,21.3,5.0
+2025,8,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,21.3,3.8
+2025,9,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,5.9
+2025,9,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,4.6
+2025,9,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,4.2
+2025,9,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,17.9,3.2
+2025,10,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,13.4,4.4
+2025,10,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,13.4,3.5
+2025,10,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,13.4,3.2
+2025,10,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,13.4,2.4
+2025,11,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,16.1,5.3
+2025,11,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,16.1,4.2
+2025,11,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,16.1,3.8
+2025,11,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,16.1,2.8
+2025,12,IST-001,17,Metal Dolap 4 Kapaklı,Dolap,13.0,4.3
+2025,12,ANK-001,17,Metal Dolap 4 Kapaklı,Dolap,13.0,3.4
+2025,12,IZM-001,17,Metal Dolap 4 Kapaklı,Dolap,13.0,3.1
+2025,12,BRS-001,17,Metal Dolap 4 Kapaklı,Dolap,13.0,2.3
+2025,1,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,15.1,5.0
+2025,1,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,15.1,3.9
+2025,1,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,15.1,3.6
+2025,1,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,15.1,2.7
+2025,2,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.9,4.2
+2025,2,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.9,3.3
+2025,2,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.9,3.0
+2025,2,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.9,2.3
+2025,3,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,2.4,0.8
+2025,3,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,2.4,0.6
+2025,3,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,2.4,0.6
+2025,3,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,2.4,0.4
+2025,4,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,5.2,1.7
+2025,4,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,5.2,1.3
+2025,4,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,5.2,1.2
+2025,4,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,5.2,0.9
+2025,5,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.1,4.0
+2025,5,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.1,3.1
+2025,5,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.1,2.8
+2025,5,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.1,2.1
+2025,6,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,4.0,1.3
+2025,6,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,4.0,1.0
+2025,6,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,4.0,0.9
+2025,6,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,4.0,0.7
+2025,7,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,22.2,7.3
+2025,7,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,22.2,5.7
+2025,7,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,22.2,5.2
+2025,7,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,22.2,3.9
+2025,8,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.2,4.0
+2025,8,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.2,3.2
+2025,8,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.2,2.9
+2025,8,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,12.2,2.2
+2025,9,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,0.0,0.0
+2025,9,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,0.0,0.0
+2025,9,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,0.0,0.0
+2025,9,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,0.0,0.0
+2025,10,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.0,2.0
+2025,10,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.0,1.6
+2025,10,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.0,1.4
+2025,10,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.0,1.1
+2025,11,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,16.9,5.6
+2025,11,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,16.9,4.4
+2025,11,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,16.9,4.0
+2025,11,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,16.9,3.0
+2025,12,IST-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.9,2.3
+2025,12,ANK-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.9,1.8
+2025,12,IZM-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.9,1.6
+2025,12,BRS-001,18,Çelik Raf Sistemi 5 Katlı,Raf Sistemi,6.9,1.2
+2025,1,IST-001,19,Metal Kapak Seti 2li,Kapak,15.6,5.1
+2025,1,ANK-001,19,Metal Kapak Seti 2li,Kapak,15.6,4.0
+2025,1,IZM-001,19,Metal Kapak Seti 2li,Kapak,15.6,3.7
+2025,1,BRS-001,19,Metal Kapak Seti 2li,Kapak,15.6,2.8
+2025,2,IST-001,19,Metal Kapak Seti 2li,Kapak,14.3,4.7
+2025,2,ANK-001,19,Metal Kapak Seti 2li,Kapak,14.3,3.7
+2025,2,IZM-001,19,Metal Kapak Seti 2li,Kapak,14.3,3.4
+2025,2,BRS-001,19,Metal Kapak Seti 2li,Kapak,14.3,2.5
+2025,3,IST-001,19,Metal Kapak Seti 2li,Kapak,7.1,2.3
+2025,3,ANK-001,19,Metal Kapak Seti 2li,Kapak,7.1,1.8
+2025,3,IZM-001,19,Metal Kapak Seti 2li,Kapak,7.1,1.7
+2025,3,BRS-001,19,Metal Kapak Seti 2li,Kapak,7.1,1.3
+2025,4,IST-001,19,Metal Kapak Seti 2li,Kapak,18.8,6.2
+2025,4,ANK-001,19,Metal Kapak Seti 2li,Kapak,18.8,4.9
+2025,4,IZM-001,19,Metal Kapak Seti 2li,Kapak,18.8,4.4
+2025,4,BRS-001,19,Metal Kapak Seti 2li,Kapak,18.8,3.3
+2025,5,IST-001,19,Metal Kapak Seti 2li,Kapak,11.9,3.9
+2025,5,ANK-001,19,Metal Kapak Seti 2li,Kapak,11.9,3.1
+2025,5,IZM-001,19,Metal Kapak Seti 2li,Kapak,11.9,2.8
+2025,5,BRS-001,19,Metal Kapak Seti 2li,Kapak,11.9,2.1
+2025,6,IST-001,19,Metal Kapak Seti 2li,Kapak,12.7,4.2
+2025,6,ANK-001,19,Metal Kapak Seti 2li,Kapak,12.7,3.3
+2025,6,IZM-001,19,Metal Kapak Seti 2li,Kapak,12.7,3.0
+2025,6,BRS-001,19,Metal Kapak Seti 2li,Kapak,12.7,2.2
+2025,7,IST-001,19,Metal Kapak Seti 2li,Kapak,11.5,3.8
+2025,7,ANK-001,19,Metal Kapak Seti 2li,Kapak,11.5,3.0
+2025,7,IZM-001,19,Metal Kapak Seti 2li,Kapak,11.5,2.7
+2025,7,BRS-001,19,Metal Kapak Seti 2li,Kapak,11.5,2.0
+2025,8,IST-001,19,Metal Kapak Seti 2li,Kapak,10.7,3.5
+2025,8,ANK-001,19,Metal Kapak Seti 2li,Kapak,10.7,2.8
+2025,8,IZM-001,19,Metal Kapak Seti 2li,Kapak,10.7,2.5
+2025,8,BRS-001,19,Metal Kapak Seti 2li,Kapak,10.7,1.9
+2025,9,IST-001,19,Metal Kapak Seti 2li,Kapak,14.3,4.7
+2025,9,ANK-001,19,Metal Kapak Seti 2li,Kapak,14.3,3.7
+2025,9,IZM-001,19,Metal Kapak Seti 2li,Kapak,14.3,3.4
+2025,9,BRS-001,19,Metal Kapak Seti 2li,Kapak,14.3,2.5
+2025,10,IST-001,19,Metal Kapak Seti 2li,Kapak,14.1,4.6
+2025,10,ANK-001,19,Metal Kapak Seti 2li,Kapak,14.1,3.6
+2025,10,IZM-001,19,Metal Kapak Seti 2li,Kapak,14.1,3.3
+2025,10,BRS-001,19,Metal Kapak Seti 2li,Kapak,14.1,2.5
+2025,11,IST-001,19,Metal Kapak Seti 2li,Kapak,14.5,4.8
+2025,11,ANK-001,19,Metal Kapak Seti 2li,Kapak,14.5,3.8
+2025,11,IZM-001,19,Metal Kapak Seti 2li,Kapak,14.5,3.4
+2025,11,BRS-001,19,Metal Kapak Seti 2li,Kapak,14.5,2.6
+2025,12,IST-001,19,Metal Kapak Seti 2li,Kapak,13.1,4.3
+2025,12,ANK-001,19,Metal Kapak Seti 2li,Kapak,13.1,3.4
+2025,12,IZM-001,19,Metal Kapak Seti 2li,Kapak,13.1,3.1
+2025,12,BRS-001,19,Metal Kapak Seti 2li,Kapak,13.1,2.3
+2025,1,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,17.3,5.7
+2025,1,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,17.3,4.5
+2025,1,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,17.3,4.1
+2025,1,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.3,3.1
+2025,2,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,18.0,5.9
+2025,2,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,18.0,4.7
+2025,2,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,18.0,4.2
+2025,2,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,18.0,3.2
+2025,3,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,5.2,1.7
+2025,3,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,5.2,1.3
+2025,3,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,5.2,1.2
+2025,3,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,5.2,0.9
+2025,4,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,16.6,5.5
+2025,4,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,16.6,4.3
+2025,4,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,16.6,3.9
+2025,4,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,16.6,2.9
+2025,5,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,8.9,2.9
+2025,5,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,8.9,2.3
+2025,5,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,8.9,2.1
+2025,5,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,8.9,1.6
+2025,6,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,13.7,4.5
+2025,6,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,13.7,3.5
+2025,6,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,13.7,3.2
+2025,6,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,13.7,2.4
+2025,7,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,10.4,3.4
+2025,7,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,10.4,2.7
+2025,7,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,10.4,2.4
+2025,7,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,10.4,1.8
+2025,8,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,7.5,2.5
+2025,8,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,7.5,1.9
+2025,8,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,7.5,1.8
+2025,8,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,7.5,1.3
+2025,9,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,20.6,6.8
+2025,9,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,20.6,5.3
+2025,9,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,20.6,4.8
+2025,9,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,20.6,3.6
+2025,10,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,17.5,5.8
+2025,10,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,17.5,4.5
+2025,10,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,17.5,4.1
+2025,10,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,17.5,3.1
+2025,11,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,9.9,3.3
+2025,11,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,9.9,2.6
+2025,11,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,9.9,2.3
+2025,11,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,9.9,1.7
+2025,12,IST-001,20,Köşebent Koruyucu 50cm,Köşebent,12.8,4.2
+2025,12,ANK-001,20,Köşebent Koruyucu 50cm,Köşebent,12.8,3.3
+2025,12,IZM-001,20,Köşebent Koruyucu 50cm,Köşebent,12.8,3.0
+2025,12,BRS-001,20,Köşebent Koruyucu 50cm,Köşebent,12.8,2.3

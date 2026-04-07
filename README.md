@@ -1,102 +1,123 @@
-# Supply Chain Analytics
+<div align="center">
 
-End-to-end supply chain analytics project — SQL Server database design, T-SQL stored procedures, Power BI dashboards with RLS, and Python-based demand forecasting.
+# Supply Chain Analytics Platform
 
-## Project Structure
+**End-to-end supply chain intelligence — from normalized SQL database to Power BI dashboards and ML-driven demand forecasting.**
 
-```
-supply-chain-analytics/
-│
-├── database/
-│   ├── seed-data/          # Master & transactional data insert scripts
-│   ├── views/              # Power BI-ready SQL views
-│   ├── stored-procedures/  # Business logic (T-SQL stored procedures)
-│   └── tests/              # Test scripts
-│
-├── powerbi/
-│   └── SCM_SupplyChain_Dashboard.pbix   # 8-page Power BI report with RLS
-│
-├── python/
-│   ├── generate_demand_data.py          # Synthetic data generator (2022–2023)
-│   └── demand_data.csv                  # Aggregated dataset for ML training
-│
-├── docs/
-│   └── screenshots/        # Power BI report screenshots
-│
-└── README.md
-```
+[![SQL Server](https://img.shields.io/badge/SQL%20Server%20Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-in%20progress-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-## Power BI Dashboard
+</div>
 
-5-page interactive report with Row Level Security (RLS) — each branch sees only its own data.
+---
 
-| Page | Content |
+## Overview
+
+This project simulates a real-world Supply Chain Management system across **4 regional branches** in Turkey. It covers the full analytics stack:
+
+- **Database layer** — fully normalized SQL Server schema with stored procedures, triggers, and views
+- **Reporting layer** — interactive Power BI dashboard with Row Level Security (RLS)
+- **ML layer** — synthetic data generation + demand forecasting model (in progress)
+
+---
+
+## Dashboard
+
+> 5-page Power BI report. Each branch (Istanbul, Ankara, Izmir, Bursa) sees only its own data via RLS.
+
+<table>
+  <tr>
+    <td align="center"><b>Özet</b></td>
+    <td align="center"><b>Satış & Satın Alma</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/01_ozet.png" alt="Özet" width="420"/></td>
+    <td><img src="docs/screenshots/02_satis_satinalma.png" alt="Satış & Satın Alma" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Stok Yönetimi</b></td>
+    <td align="center"><b>Üretim</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/03_stok_yonetimi.png" alt="Stok Yönetimi" width="420"/></td>
+    <td><img src="docs/screenshots/04_uretim.png" alt="Üretim" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Müşteri & Ürün Analizi</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/screenshots/05_musteri_urun_analizi.png" alt="Müşteri & Ürün Analizi" width="420"/></td>
+  </tr>
+</table>
+
+| Page | Visuals |
 |---|---|
-| Özet | KPI cards, production completion gauge, trend charts |
-| Satış & Satın Alma | Sales waterfall, monthly trend, purchasing funnel by status |
-| Stok Yönetimi | Treemap by category, stock level bar chart, critical stock alerts |
-| Üretim | Pie by status, planned vs actual comparison, production trend |
-| Müşteri & Ürün Analizi | RFM scatter plot, customer ranking, product sales breakdown |
+| **Özet** | KPI cards, production completion gauge, monthly trend |
+| **Satış & Satın Alma** | Sales waterfall, trend line, purchasing funnel by status |
+| **Stok Yönetimi** | Treemap by category, stock bar chart, critical stock alerts |
+| **Üretim** | Status pie, planned vs actual comparison |
+| **Müşteri & Ürün Analizi** | Scatter (RFM), customer ranking, product revenue breakdown |
 
-**RLS Roles:** Istanbul (IST-001) · Ankara (ANK-001) · Izmir (IZM-001) · Bursa (BRS-001)
+**RLS Roles:** `IST-001` Istanbul · `ANK-001` Ankara · `IZM-001` Izmir · `BRS-001` Bursa
 
-### Screenshots
-
-| Özet | Satış & Satın Alma |
-|---|---|
-| ![Özet](docs/screenshots/01_ozet.png) | ![Satış & Satın Alma](docs/screenshots/02_satis_satinalma.png) |
-
-| Stok Yönetimi | Üretim |
-|---|---|
-| ![Stok Yönetimi](docs/screenshots/03_stok_yonetimi.png) | ![Üretim](docs/screenshots/04_uretim.png) |
-
-| Müşteri & Ürün Analizi |
-|---|
-| ![Müşteri & Ürün Analizi](docs/screenshots/05_musteri_urun_analizi.png) |
+---
 
 ## Machine Learning — Demand Forecasting
 
-Synthetic sales data was generated for 2022–2023 using realistic supply chain patterns, then combined with actual 2024 data to build a 3-year training dataset.
+To enable predictive analytics, 2 years of synthetic sales data (2022–2023) was programmatically generated to complement real 2024 data.
 
-**Data generation features:**
-- Seasonality: Nov–Dec peak, Jan–Feb low
-- Branch weighting: Istanbul > Ankara > Izmir > Bursa
-- Year-over-year growth trend (2022 → 2023 → 2024)
-- ±20% random noise per order
+### Data Generation Pipeline
 
-**Dataset stats (demand_data.csv):**
-- 905 rows — year × month × branch × product aggregates
-- 3 years: 2022 (193 orders), 2023 (204 orders), 2024 (actual)
-- Columns: `yil, ay, subeKodu, productID, productName, categoryName, toplamMiktar, toplamCiro, siparisAdet`
+```
+generate_demand_data.py
+  → Seasonality weights (Nov–Dec peak, Jan–Feb low)
+  → Branch weights   (Istanbul 1.4x, Bursa 0.75x)
+  → Year-over-year growth trend (2022: 0.75x → 2023: 0.90x → 2024: 1.0x)
+  → ±20% random noise per order
+  → INSERT into SalesOrder + SalesOrderItem (SQL Server)
+  → Export to demand_data.csv
+```
 
-**Planned model:** XGBoost / Prophet — monthly product-level demand prediction per branch
+### Dataset
 
-## Database Overview
+| Stat | Value |
+|---|---|
+| File | `python/demand_data.csv` |
+| Rows | 905 (year × month × branch × product) |
+| Period | Jan 2022 – Dec 2024 (3 years) |
+| Orders | 2022: 193 · 2023: 204 · 2024: actual |
+| Features | `yil, ay, subeKodu, productID, productName, categoryName, toplamMiktar, toplamCiro, siparisAdet` |
 
-**Platform:** SQL Server Express (`ENES\SQLEXPRESS`) — Database: `SCM_3`
+### Planned Model
+
+- **Algorithm:** XGBoost (primary) + Facebook Prophet (seasonal baseline)
+- **Target:** `toplamMiktar` — monthly demand per product per branch
+- **Features:** month, branch, category, lag values, rolling averages, seasonality flags
+- **Output:** Next-month demand forecast with confidence interval
+
+---
+
+## Database
+
+**Platform:** SQL Server Express · **Instance:** `ENES\SQLEXPRESS` · **Database:** `SCM_3`
+
+### Schema
 
 | Module | Tables |
 |---|---|
-| Geography | Country, City, Town, District, Address |
-| Partners | BusinessPartner, BusinessPartnerRole, BusinessPartnerAddress |
-| Products | Unit, ProductCategory, Product, BOM, BOMItem |
-| Warehouse | Warehouse, InventoryBalance, StockMovement |
-| Purchasing | PurchaseOrder, PurchaseOrderItem, GoodsReceipt, GoodsReceiptItem |
-| Sales | SalesOrder, SalesOrderItem, Shipment, ShipmentItem |
-| Production | ProductionOrder, ProductionConsumption, ProductionOutput |
-| Branch | Sube, SubeKullanici |
-| Time | DimTarih (date dimension) |
+| Geography | `Country`, `City`, `Town`, `District`, `Address` |
+| Partners | `BusinessPartner`, `BusinessPartnerRole`, `BusinessPartnerAddress` |
+| Products | `Unit`, `ProductCategory`, `Product`, `BOM`, `BOMItem` |
+| Warehouse | `Warehouse`, `InventoryBalance`, `StockMovement` |
+| Purchasing | `PurchaseOrder`, `PurchaseOrderItem`, `GoodsReceipt`, `GoodsReceiptItem` |
+| Sales | `SalesOrder`, `SalesOrderItem`, `Shipment`, `ShipmentItem` |
+| Production | `ProductionOrder`, `ProductionConsumption`, `ProductionOutput` |
+| Branch | `Sube`, `SubeKullanici` |
+| Time | `DimTarih` (date dimension) |
 
-## Key Technical Features
-
-- **Stored Procedures** — Full business logic layer: CreatePurchaseOrder, PostGoodsReceipt, ReserveSalesOrder, PostShipment, PostProductionOutput
-- **Triggers** — `TR_StockMovement_UpdateInventoryBalance` (negative stock protection), branch auto-assignment triggers
-- **Views** — 11 Power BI-optimized views with Turkish labels and branch filtering
-- **RLS** — Row Level Security with 4 branch roles, enforced via DAX filter on `Sube` table
-- **Conditional Formatting** — Stock status (Critical / Low / Normal) based on `minStockLevel` per product
-- **3 Years of Data** — 2022–2024: ~600 sales orders, ~1800 order items, 272+ stock movements
-
-## Status Flows
+### Status Flows
 
 ```
 PurchaseOrder:   DRAFT → APPROVED → PARTIALLY_RECEIVED → RECEIVED → CANCELLED
@@ -104,14 +125,52 @@ SalesOrder:      DRAFT → APPROVED → RESERVED → PARTIALLY_SHIPPED → SHIPP
 ProductionOrder: DRAFT → RELEASED → IN_PROGRESS → COMPLETED → CANCELLED
 ```
 
-## Tech Stack
+### Key Technical Features
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-blue?style=flat)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-coming%20soon-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+| Feature | Detail |
+|---|---|
+| **Stored Procedures** | `CreatePurchaseOrder`, `PostGoodsReceipt`, `ReserveSalesOrder`, `PostShipment`, `PostProductionOutput` |
+| **Triggers** | `TR_StockMovement_UpdateInventoryBalance` — auto-updates inventory, blocks negative stock |
+| **Views** | 11 Power BI-ready views with Turkish labels, branch joins, and status translations |
+| **RLS** | 4 branch roles enforced via DAX filter on `Sube` table |
+| **Conditional Formatting** | Stock status (Critical / Low / Normal) driven by `minStockLevel` per product |
+| **Data Volume** | 2022–2024: ~600 sales orders, ~1,800 order items, 272+ stock movements |
+
+---
+
+## Project Structure
+
+```
+supply-chain-analytics/
+│
+├── database/
+│   ├── seed-data/               # Master & transactional INSERT scripts
+│   ├── views/                   # 11 Power BI-optimized SQL views
+│   ├── stored-procedures/       # Business logic (T-SQL)
+│   └── tests/                   # Validation scripts
+│
+├── powerbi/
+│   └── SCM_SupplyChain_Dashboard.pbix
+│
+├── python/
+│   ├── generate_demand_data.py  # Synthetic data generator
+│   └── demand_data.csv          # ML training dataset (905 rows, 3 years)
+│
+├── docs/
+│   └── screenshots/             # Dashboard page screenshots
+│
+└── README.md
+```
+
+---
 
 ## Author
 
-**Enes İbiş** — [LinkedIn](https://www.linkedin.com/in/enesibis/) · [GitHub](https://github.com/Enesibis)
+<div align="center">
+
+**Enes İbiş**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enesibis/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enesibis)
+
+</div>

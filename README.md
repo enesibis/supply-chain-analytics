@@ -129,12 +129,54 @@ ProductionOrder: DRAFT → RELEASED → IN_PROGRESS → COMPLETED → CANCELLED
 
 | Feature | Detail |
 |---|---|
-| **Stored Procedures** | `CreatePurchaseOrder`, `PostGoodsReceipt`, `ReserveSalesOrder`, `PostShipment`, `PostProductionOutput` |
+| **Stored Procedures** | `CreatePurchaseOrder`, `PostGoodsReceipt`, `ReserveSalesOrder`, `PostShipment`, `PostProductionOutput`, `sp_RefreshAllSnapshots` |
 | **Triggers** | `TR_StockMovement_UpdateInventoryBalance` — auto-updates inventory, blocks negative stock |
-| **Views** | 11 Power BI-ready views with Turkish labels, branch joins, and status translations |
+| **Auto-Numbering Triggers** | `TR_SalesOrder_AutoNumber`, `TR_PurchaseOrder_AutoNumber`, `TR_ProductionOrder_AutoNumber` — branch-prefixed document numbers |
+| **Views** | 13 Power BI-ready views with Turkish labels, branch joins, and status translations |
+| **Snapshot Tables** | 4 pre-computed summary tables (`snap_AylikSatis`, `snap_AylikSatinAlma`, `snap_AylikUretim`, `snap_UrunPerformans`) for fast BI queries |
+| **TVFs** | 3 parametric table-valued functions for date range, period comparison, and supplier delivery analysis |
 | **RLS** | 4 branch roles enforced via DAX filter on `Sube` table |
 | **Conditional Formatting** | Stock status (Critical / Low / Normal) driven by `minStockLevel` per product |
 | **Data Volume** | 2022–2024: ~600 sales orders, ~1,800 order items, 272+ stock movements |
+
+---
+
+## Branch-Based Document Numbering
+
+All transactional documents follow a structured format:
+
+```
+{DocType}-{BranchCode}-{Year}-{Sequence}
+SO-IST-2024-00001   ← Sales Order, Istanbul, 2024, 1st
+PO-ANK-2023-00015   ← Purchase Order, Ankara, 2023, 15th
+PRO-IZM-2024-00003  ← Production Order, Izmir, 2024, 3rd
+```
+
+Implemented via `DocNumberSequence` table + `AFTER INSERT` triggers using atomic `MERGE` operations. All historical records were backfilled with the new format.
+
+---
+
+## Analytics Architecture
+
+```
+Layer 1 — Core Views (13)
+  vw_SatisSiparisleri, vw_SatinAlmaSiparisleri, vw_UretimEmirleri,
+  vw_Sevkiyatlar, vw_StokDurumu, vw_StokHareketleri, vw_KPI,
+  vw_TedarikciPerformansi, vw_MusteriAnalizi (RFM),
+  vw_SubeOzeti, vw_UrunSatisAnalizi, vw_AylikNakitAkisi, vw_KritikStok
+
+Layer 2 — Snapshot Tables (4)
+  snap_AylikSatis, snap_AylikSatinAlma, snap_AylikUretim, snap_UrunPerformans
+  → Refreshed nightly via sp_RefreshAllSnapshots
+
+Layer 3 — Parametric TVFs (3)
+  fn_SatisRaporu(@baslangic, @bitis, @subeKodu, @kategori)
+  fn_DonemKarsilastirma(@yil1, @yil2, @subeKodu)
+  fn_TedarikciTeslimAnalizi(@yil, @subeKodu)
+
+Layer 4 — Automation
+  scripts/refresh_snapshots.bat → Windows Task Scheduler (daily 02:00)
+```
 
 ---
 
@@ -145,16 +187,17 @@ supply-chain-analytics/
 │
 ├── database/
 │   ├── seed-data/               # Master & transactional INSERT scripts
-│   ├── views/                   # 11 Power BI-optimized SQL views
-│   ├── stored-procedures/       # Business logic (T-SQL)
+│   ├── views/
+│   │   ├── createViews.sql      # Original views
+│   │   └── analytics_system.sql # 13 views + 4 snap tables + 3 TVFs + sp_RefreshAllSnapshots
+│   ├── stored-procedures/       # Business logic + branch prefix numbering system
 │   └── tests/                   # Validation scripts
 │
 ├── powerbi/
 │   └── SCM_SupplyChain_Dashboard.pbix
 │
-├── python/
-│   ├── generate_demand_data.py  # Synthetic data generator
-│   └── demand_data.csv          # ML training dataset (905 rows, 3 years)
+├── scripts/
+│   └── refresh_snapshots.bat    # Nightly snapshot refresh (Windows Task Scheduler)
 │
 ├── docs/
 │   └── screenshots/             # Dashboard page screenshots
